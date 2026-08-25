@@ -4,8 +4,7 @@ A production-style Python automation that consolidates recurring business files,
 
 Built as a demonstration project for **Lignum Automation**.
 ## Example Output
-
-![Automated Business Reporting Executive Summary](screenshots/Exec Summary Github.png)
+![Automated Business Reporting Executive Summary](screenshots/executive-summary.png)
 
 The pipeline converts raw multi-location business files into a validated, management-ready report with automated KPIs, performance summaries, exception reporting, and trend analysis.
 ---
