@@ -1,0 +1,154 @@
+Transaction_ID,Transaction_Date,Location,Customer,Product_Service,Quantity,Unit_Price,Revenue,Sales_Rep,Status
+NAS-10000,2026-05-11,Nashville,Oakline Partners,Automation,3,5043.89,15131.67,Alex Johnson,Cancelled
+NAS-10001,2026-04-05,Nashville,Evergreen Retail,Support,4,2131.5,8526.0,Jordan Lee,Pending
+NAS-10002,2026-07-05,Nashville,Atlas Medical,Automation,3,6780.53,20341.59,Casey Brown,Pending
+NAS-10003,2026-07-04,Nashville,Atlas Medical,Support,5,1655.27,8276.35,Casey Brown,Pending
+NAS-10004,2026-06-08,Nashville,Vertex Technology,Consulting,5,3516.1,17580.5,Taylor Smith,Completed
+NAS-10005,2026-01-29,Nashville,Summit Financial,Implementation,5,7241.03,36205.15,Jordan Lee,Pending
+NAS-10006,2026-06-26,Nashville,Summit Financial,Support,4,802.86,3211.44,Alex Johnson,Cancelled
+NAS-10007,2026-07-08,Nashville,Atlas Medical,Automation,4,7236.91,28947.64,Taylor Smith,Cancelled
+NAS-10008,2026-06-19,Nashville,Crescent Health,Consulting,5,2300.2,11501.0,Casey Brown,Pending
+NAS-10009,2026-05-17,Nashville,Evergreen Retail,Support,2,1419.33,2838.66,Casey Brown,Completed
+NAS-10010,2026-03-05,Nashville,Blue Ridge Services,Support,5,1468.36,7341.8,Casey Brown,Completed
+NAS-10011,2026-06-30,Nashville,Summit Financial,Consulting,3,4084.7,12254.1,Alex Johnson,Completed
+NAS-10012,2026-07-23,Nashville,Blue Ridge Services,Data Services,3,4022.19,12066.57,Morgan Davis,Completed
+NAS-10013,2026-04-12,nashville,Evergreen Retail,Automation,5,4278.17,21390.85,Taylor Smith,Completed
+NAS-10014,2026-01-21,Nashville,Evergreen Retail,Implementation,3,7276.57,21829.71,Alex Johnson,Completed
+NAS-10015,2026-05-18,Nashville,Blue Ridge Services,Data Services,2,2409.31,4818.62,Casey Brown,Completed
+NAS-10016,2026-05-31,Nashville,Summit Financial,Consulting,1,3462.71,3462.71,Taylor Smith,Completed
+NAS-10017,2026-01-14,Nashville,Northstar Logistics,Automation,2,5827.67,11655.34,Alex Johnson,Completed
+NAS-10018,2026-02-05,Nashville,Atlas Medical,Data Services,1,4565.36,4565.36,Casey Brown,Completed
+NAS-10019,2026-02-21,Nashville,Blue Ridge Services,Data Services,4,3648.52,14594.08,Morgan Davis,Completed
+NAS-10020,2026-03-01,Nashville,Oakline Partners,Implementation,1,5761.49,5761.49,Jordan Lee,Completed
+NAS-10021,2026-01-10,Nashville,Vertex Technology,Data Services,2,5702.65,-11405.3,Alex Johnson,Completed
+NAS-10022,2026-05-26,Nashville,Redwood Operations,Support,1,518.53,518.53,Jordan Lee,Completed
+NAS-10023,INVALID_DATE,Nashville,,Support,4,2478.2,9912.8,Alex Johnson,Completed
+NAS-10024,2026-07-27,Nashville,Northstar Logistics,Automation,4,3637.02,14548.08,Morgan Davis,Completed
+NAS-10025,2026-01-04,Nashville,Evergreen Retail,Data Services,3,4733.69,14201.07,Morgan Davis,Cancelled
+NAS-10026,2026-06-13,Nashville,Vertex Technology,Consulting,2,3443.82,6887.64,Alex Johnson,Cancelled
+NAS-10027,2026-01-25,Nashville,Pioneer Manufacturing,Support,1,1301.67,1301.67,Taylor Smith,Pending
+NAS-10028,2026-04-09,Nashville,Summit Financial,Support,2,513.66,1027.32,Alex Johnson,Completed
+NAS-10029,2026-05-27,Nashville,Atlas Medical,Support,3,1664.92,4994.76,Morgan Davis,Completed
+NAS-10030,2026-04-30,Nashville,Blue Ridge Services,Consulting,1,3671.14,3671.14,Taylor Smith,Pending
+NAS-10031,2026-06-13,Nashville,Blue Ridge Services,Automation,3,6141.74,18425.22,Morgan Davis,Cancelled
+NAS-10032,2026-05-03,Nashville,Pioneer Manufacturing,Consulting,2,4829.44,9658.88,Alex Johnson,Cancelled
+NAS-10033,2026-05-01,Nashville,Oakline Partners,Support,4,1903.88,7615.52,Taylor Smith,Completed
+NAS-10034,2026-05-16,Nashville,Evergreen Retail,Automation,1,5153.04,5153.04,Jordan Lee,Cancelled
+NAS-10035,2026-05-10,Nashville,Summit Financial,Implementation,1,6643.87,6643.87,Casey Brown,Cancelled
+NAS-10036,2026-05-14,Nashville,Crescent Health,Consulting,2,2312.47,4624.94,Jordan Lee,Completed
+NAS-10037,2026-05-11,Nashville,Crescent Health,Automation,4,2545.65,10182.6,Jordan Lee,Pending
+NAS-10038,2026-05-25,Nashville,Atlas Medical,Consulting,5,2661.7,13308.5,Casey Brown,Pending
+NAS-10039,2026-07-29,Nashville,Atlas Medical,Support,1,1291.9,1291.9,Taylor Smith,Cancelled
+NAS-10040,2026-06-29,Nashville,,Implementation,1,4618.49,4618.49,Casey Brown,Completed
+NAS-10041,2026-04-15,Nashville,Pioneer Manufacturing,Implementation,4,2658.67,10634.68,Taylor Smith,Pending
+NAS-10042,2026-04-07,nashville,Vertex Technology,Support,4,1397.07,5588.28,Jordan Lee,Cancelled
+NAS-10043,2026-05-18,Nashville,Vertex Technology,Consulting,3,1474.53,4423.59,Casey Brown,Completed
+NAS-10044,2026-03-18,Nashville,Crescent Health,Consulting,1,4024.72,4024.72,Casey Brown,Pending
+NAS-10045,2026-03-05,Nashville,Crescent Health,Automation,4,6940.16,27760.64,Morgan Davis,Completed
+NAS-10046,2026-07-05,Nashville,Northstar Logistics,Support,2,2374.82,4749.64,Jordan Lee,Pending
+NAS-10047,2026-01-18,Nashville,Northstar Logistics,Automation,1,3444.0,3444.0,Casey Brown,Completed
+NAS-10048,2026-08-12,Nashville,Atlas Medical,Data Services,5,4524.11,22620.55,Taylor Smith,Completed
+NAS-10049,2026-02-25,Nashville,Atlas Medical,Data Services,4,2554.53,10218.12,Taylor Smith,Cancelled
+NAS-10050,2026-07-07,Nashville,Redwood Operations,Support,2,2131.57,4263.14,Morgan Davis,Cancelled
+NAS-10051,2026-08-13,Nashville,Pioneer Manufacturing,Automation,3,3421.42,10264.26,Casey Brown,Completed
+NAS-10052,2026-05-23,Nashville,Redwood Operations,Data Services,3,2738.19,8214.57,Taylor Smith,Pending
+NAS-10053,2026-03-30,Nashville,Vertex Technology,Automation,4,2281.3,9125.2,Casey Brown,Completed
+NAS-10054,2026-04-07,Nashville,Pioneer Manufacturing,Data Services,4,2171.48,8685.92,Casey Brown,Pending
+NAS-10055,2026-07-01,Nashville,Pioneer Manufacturing,Consulting,2,2202.95,4405.9,Alex Johnson,Completed
+NAS-10056,2026-05-23,Nashville,Oakline Partners,Automation,4,7806.72,31226.88,Taylor Smith,Pending
+NAS-10057,2026-06-15,Nashville,Northstar Logistics,Consulting,3,1813.35,5440.05,Alex Johnson,Completed
+NAS-10058,2026-02-18,Nashville,Atlas Medical,Implementation,5,6122.92,30614.6,Morgan Davis,Pending
+NAS-10059,2026-01-19,Nashville,Summit Financial,Automation,5,2237.29,11186.45,Casey Brown,Cancelled
+NAS-10060,2026-03-27,Nashville,Blue Ridge Services,Consulting,4,1835.56,7342.24,Jordan Lee,Completed
+NAS-10061,2026-07-13,Nashville,Crescent Health,Consulting,1,3987.52,3987.52,Taylor Smith,Cancelled
+NAS-10062,2026-05-22,Nashville,Evergreen Retail,Consulting,4,4660.51,18642.04,Morgan Davis,Pending
+NAS-10063,2026-03-20,Nashville,Blue Ridge Services,Data Services,5,4419.25,22096.25,Morgan Davis,Cancelled
+NAS-10064,2026-07-04,Nashville,Crescent Health,Data Services,4,1943.74,7774.96,,Completed
+NAS-10065,2026-05-25,Nashville,Summit Financial,Support,3,1327.86,3983.58,Taylor Smith,Completed
+NAS-10066,2026-05-29,Nashville,Vertex Technology,Support,5,2369.52,11847.6,Morgan Davis,Completed
+NAS-10067,2026-05-26,Nashville,Summit Financial,Consulting,3,1920.07,5760.21,Alex Johnson,Cancelled
+NAS-10068,2026-05-06,Nashville,Crescent Health,Support,3,2026.72,6080.16,Alex Johnson,Completed
+NAS-10069,2026-05-20,Nashville,Crescent Health,Support,2,779.92,1559.84,Taylor Smith,Cancelled
+NAS-10070,2026-08-05,Nashville,,Implementation,5,2669.12,13345.6,Jordan Lee,Completed
+NAS-10071,2026-03-01,Nashville,Northstar Logistics,Data Services,2,5291.45,10582.9,Taylor Smith,Completed
+NAS-10072,2026-01-16,Nashville,Redwood Operations,Consulting,5,2824.04,14120.2,Casey Brown,Pending
+NAS-10073,2026-05-22,Nashville,Vertex Technology,Data Services,1,1529.76,1529.76,Jordan Lee,Completed
+NAS-10074,2026-03-15,Nashville,Atlas Medical,Automation,3,5214.43,15643.29,Casey Brown,Pending
+NAS-10075,2026-05-15,Nashville,Pioneer Manufacturing,Consulting,1,4672.2,4672.2,Taylor Smith,Completed
+NAS-10076,2026-04-01,Nashville,Blue Ridge Services,Automation,5,3514.51,17572.55,Alex Johnson,Completed
+NAS-10077,2026-03-04,Nashville,Summit Financial,Support,4,1418.0,5672.0,Morgan Davis,Completed
+NAS-10078,2026-04-07,Nashville ,Oakline Partners,Implementation,1,4526.39,4526.39,Alex Johnson,Completed
+NAS-10079,2026-08-05,Nashville,Vertex Technology,Implementation,2,2913.43,5826.86,Morgan Davis,Cancelled
+NAS-10080,2026-02-28,Nashville,Summit Financial,Implementation,5,7095.76,35478.8,Casey Brown,Pending
+NAS-10081,2026-06-25,Nashville,Blue Ridge Services,Support,1,2348.32,2348.32,Casey Brown,Cancelled
+NAS-10082,2026-03-22,Nashville,Atlas Medical,Implementation,2,7143.83,14287.66,Taylor Smith,Cancelled
+NAS-10083,2026-03-18,Nashville,Pioneer Manufacturing,Consulting,4,4715.5,18862.0,Casey Brown,Completed
+NAS-10084,2026-05-19,Nashville,Evergreen Retail,Automation,4,6062.21,24248.84,Alex Johnson,Completed
+NAS-10085,2026-03-30,Nashville,Atlas Medical,Implementation,5,6227.28,31136.4,Jordan Lee,Pending
+NAS-10086,2026-07-16,Nashville,Redwood Operations,Consulting,1,2362.37,2362.37,Casey Brown,Pending
+NAS-10087,2026-07-20,Nashville,Crescent Health,Support,1,1768.25,1768.25,Alex Johnson,Completed
+NAS-10088,2026-04-21,Nashville,Pioneer Manufacturing,Support,5,2382.29,11911.45,Casey Brown,Pending
+NAS-10089,2026-03-05,Nashville,Northstar Logistics,Implementation,5,3976.9,19884.5,Jordan Lee,Completed
+NAS-10090,2026-06-12,Nashville,Pioneer Manufacturing,Consulting,4,3846.71,15386.84,Alex Johnson,Completed
+NAS-10091,2026-03-20,Nashville,Crescent Health,Support,1,683.04,683.04,Morgan Davis,Completed
+NAS-10092,2026-04-21,Nashville,Crescent Health,Implementation,2,2936.49,5872.98,,Cancelled
+NAS-10093,2026-01-23,Nashville,Evergreen Retail,Automation,4,2619.76,10479.04,Casey Brown,Completed
+NAS-10094,2026-08-10,Nashville,Vertex Technology,Automation,5,6706.63,33533.15,Jordan Lee,Completed
+NAS-10095,2026-07-05,Nashville,Oakline Partners,Data Services,0,5006.26,20025.04,Taylor Smith,Cancelled
+NAS-10096,2026-02-13,Nashville,Pioneer Manufacturing,Automation,2,6111.9,12223.8,Morgan Davis,Completed
+NAS-10097,2026-02-12,Nashville,Vertex Technology,Support,4,791.87,3167.48,Morgan Davis,Pending
+NAS-10098,2026-04-03,Nashville,Blue Ridge Services,Support,4,2065.33,8261.32,Taylor Smith,Pending
+NAS-10099,2026-01-28,Nashville,Pioneer Manufacturing,Automation,5,3173.29,15866.45,Morgan Davis,Completed
+NAS-10100,2026-04-08,Nashville,Evergreen Retail,Data Services,3,5287.26,15861.78,Alex Johnson,Completed
+NAS-10101,2026-03-24,NASHVILLE,Redwood Operations,Data Services,5,2112.56,10562.8,Taylor Smith,Pending
+NAS-10102,2026-03-23,Nashville,Blue Ridge Services,Support,2,2429.15,4858.3,Alex Johnson,Cancelled
+NAS-10103,2026-07-29,Nashville,Vertex Technology,Consulting,3,2504.22,7512.66,Morgan Davis,Completed
+NAS-10104,2026-05-20,Nashville,Pioneer Manufacturing,Automation,2,5553.36,11106.72,Casey Brown,Completed
+NAS-10105,2026-03-16,Nashville,Northstar Logistics,Data Services,2,3473.05,6946.1,Alex Johnson,Pending
+NAS-10106,2026-06-18,Nashville,Pioneer Manufacturing,Consulting,3,1968.08,5904.24,Alex Johnson,Pending
+NAS-10107,2026-05-03,Nashville,Redwood Operations,Implementation,4,7453.5,29814.0,Alex Johnson,Cancelled
+NAS-10108,2026-07-22,Nashville,Evergreen Retail,Automation,4,5261.87,21047.48,Casey Brown,Cancelled
+NAS-10109,2026-06-18,Nashville,Evergreen Retail,Implementation,1,6344.77,6344.77,Taylor Smith,Cancelled
+NAS-10110,2026-06-23,Nashville,Vertex Technology,Implementation,5,7418.04,37090.2,Morgan Davis,Pending
+NAS-10111,2026-02-26,Nashville,Oakline Partners,Implementation,1,2993.03,2993.03,Casey Brown,Cancelled
+NAS-10112,2026-04-06,Nashville,Vertex Technology,Automation,5,3326.19,16630.95,Alex Johnson,Cancelled
+NAS-10113,2026-01-07,Nashville,Crescent Health,Automation,2,4069.8,8139.6,Jordan Lee,Completed
+NAS-10114,2026-07-06,Nashville,Pioneer Manufacturing,Data Services,1,2022.31,2022.31,Morgan Davis,Completed
+NAS-10115,2026-05-14,Nashville,Crescent Health,Support,4,2068.54,8274.16,Morgan Davis,Pending
+NAS-10116,2026-04-26,Nashville,Evergreen Retail,Implementation,4,6109.97,24439.88,Jordan Lee,Completed
+NAS-10117,2026-03-29,Nashville,Northstar Logistics,Implementation,1,2612.93,2612.93,Taylor Smith,Completed
+NAS-10118,2026-03-26,Nashville,Oakline Partners,Automation,2,5311.46,10622.92,Alex Johnson,Pending
+NAS-10119,2026-02-17,Nashville,Vertex Technology,Consulting,4,3519.04,14076.16,Alex Johnson,Completed
+NAS-10120,2026-04-20,Nashville,Vertex Technology,Automation,2,4697.45,9394.9,Jordan Lee,Completed
+NAS-10121,2026-07-27,Nashville,Northstar Logistics,Consulting,3,4009.3,12027.9,Casey Brown,Completed
+NAS-10122,2026-02-20,Nashville,Crescent Health,Automation,2,4194.76,8389.52,Jordan Lee,Completed
+NAS-10123,2026-03-22,Nashville,Redwood Operations,Data Services,5,5846.62,29233.1,Alex Johnson,Cancelled
+NAS-10124,2026-04-01,Nashville,Crescent Health,Data Services,5,2014.04,10070.2,Casey Brown,Completed
+NAS-10125,2026-06-22,Nashville,Pioneer Manufacturing,Support,5,1680.34,8401.7,Morgan Davis,Completed
+NAS-10126,2026-04-06,Nashville,Pioneer Manufacturing,Consulting,3,1467.8,4403.4,Casey Brown,Pending
+NAS-10127,2026-04-09,Nashville,Vertex Technology,Data Services,5,2120.4,10602.0,Taylor Smith,Pending
+NAS-10128,2026-05-06,Nashville,Blue Ridge Services,Automation,2,5329.48,10658.96,Taylor Smith,Completed
+NAS-10129,2026-08-10,Nashville,Evergreen Retail,Support,4,1738.82,6955.28,Jordan Lee,Pending
+NAS-10130,2026-05-24,Nashville,Oakline Partners,Consulting,2,4260.86,8521.72,Alex Johnson,Pending
+NAS-10131,2026-04-24,Nashville,Crescent Health,Data Services,4,4695.64,18782.56,Taylor Smith,Completed
+NAS-10132,2026-02-26,Nashville,Blue Ridge Services,Automation,1,6775.29,6775.29,Jordan Lee,Completed
+NAS-10133,2026-07-19,Nashville,Crescent Health,Consulting,5,2154.68,10773.4,Casey Brown,Pending
+NAS-10134,2026-01-30,Nashville,Blue Ridge Services,Automation,5,2679.27,13396.35,Casey Brown,Completed
+NAS-10135,2026-04-23,Nashville,Oakline Partners,Automation,1,6560.02,6560.02,Taylor Smith,Pending
+NAS-10136,2026-01-09,Nashville,Crescent Health,Implementation,2,3988.54,7977.08,Morgan Davis,Completed
+NAS-10137,2026-01-31,Nashville,Summit Financial,Implementation,4,6826.45,27305.8,Taylor Smith,Cancelled
+NAS-10138,2026-02-12,Nashville,Redwood Operations,Support,5,1765.54,8827.7,Taylor Smith,Completed
+NAS-10139,2026-05-17,Nashville,Blue Ridge Services,Consulting,1,3280.3,3280.3,Casey Brown,Cancelled
+NAS-10140,2026-03-16,Nashville,Blue Ridge Services,Consulting,3,4916.0,14748.0,Casey Brown,Completed
+NAS-10141,2026-07-12,Nashville,Vertex Technology,Automation,1,2813.53,2813.53,Jordan Lee,Completed
+NAS-10142,2026-07-02,Nashville,Evergreen Retail,Consulting,2,1998.71,3997.42,Taylor Smith,Pending
+NAS-10143,2026-03-10,Nashville,Vertex Technology,Data Services,2,4098.41,8196.82,Alex Johnson,Pending
+NAS-10144,2026-07-11,Nashville,Blue Ridge Services,Implementation,1,4514.25,4514.25,Morgan Davis,Pending
+NAS-10145,2026-08-11,Nashville,Northstar Logistics,Data Services,3,4118.8,12356.4,Alex Johnson,Completed
+NAS-10146,2026-04-20,Nashville,Summit Financial,Implementation,5,4488.58,22442.9,Alex Johnson,Completed
+NAS-10147,2026-05-28,Nashville,Pioneer Manufacturing,Support,3,1175.51,3526.53,Casey Brown,Pending
+NAS-10148,2026-06-10,Nashville,Crescent Health,Support,1,591.89,591.89,Jordan Lee,Completed
+NAS-10149,2026-04-20,Nashville,Summit Financial,Consulting,4,2826.07,11304.28,Taylor Smith,Completed
+NAS-10014,2026-01-21,Nashville,Evergreen Retail,Implementation,3,7276.57,21829.71,Alex Johnson,Completed
+NAS-10098,2026-04-03,Nashville,Blue Ridge Services,Support,4,2065.33,8261.32,Taylor Smith,Pending
+NAS-10075,2026-05-15,Nashville,Pioneer Manufacturing,Consulting,1,4672.2,4672.2,Taylor Smith,Completed

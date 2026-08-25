@@ -1,0 +1,601 @@
+Transaction_ID,Transaction_Date,Location,Customer,Product_Service,Quantity,Unit_Price,Revenue,Sales_Rep,Status,Source_File
+ATL-10000,2026-03-04,Atlanta,Summit Financial,Implementation,1,6207.75,6207.75,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10001,2026-01-09,Atlanta,Atlas Medical,Automation,1,5542.96,5542.96,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10002,2026-05-24,Atlanta,Summit Financial,Consulting,5,3408.07,17040.35,Casey Brown,Pending,Atlanta_Transactions.csv
+ATL-10003,2026-07-27,Atlanta,Atlas Medical,Consulting,4,3357.06,13428.24,Taylor Smith,Pending,Atlanta_Transactions.csv
+ATL-10004,2026-07-15,Atlanta,Evergreen Retail,Support,3,810.96,2432.88,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10005,2026-03-30,Atlanta,Redwood Operations,Data Services,1,3115.41,3115.41,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10006,2026-04-07,Atlanta,Northstar Logistics,Data Services,5,2061.72,10308.6,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10007,2026-06-30,Atlanta,Northstar Logistics,Automation,3,5464.11,16392.33,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10008,2026-08-10,Atlanta,Northstar Logistics,Support,1,2210.64,2210.64,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10009,2026-04-01,Atlanta,,Data Services,3,2231.94,6695.82,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10010,2026-03-04,Atlanta,Pioneer Manufacturing,Automation,2,5204.84,10409.68,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10011,,Atlanta,Atlas Medical,Support,5,939.23,4696.15,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10012,2026-02-24,Atlanta,Redwood Operations,Support,4,1035.48,4141.92,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10013,2026-06-14,Atlanta,Crescent Health,Data Services,4,5481.07,21924.28,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10014,2026-05-18,Atlanta,Blue Ridge Services,Consulting,2,3979.96,7959.92,Casey Brown,Pending,Atlanta_Transactions.csv
+ATL-10015,2026-02-05,Atlanta,Oakline Partners,Automation,4,4171.98,16687.92,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10016,2026-02-10,Atlanta,Vertex Technology,Implementation,1,3264.21,3264.21,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10017,2026-04-30,Atlanta,Oakline Partners,Data Services,4,4181.5,16726.0,,Cancelled,Atlanta_Transactions.csv
+ATL-10018,2026-05-18,Atlanta,Blue Ridge Services,Implementation,1,5908.55,5908.55,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10019,2026-01-01,Atlanta,Blue Ridge Services,Support,4,816.32,3265.28,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10020,2026-03-18,Atlanta,Oakline Partners,Automation,1,7223.11,7223.11,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10021,2026-05-19,Atlanta,Oakline Partners,Consulting,3,4050.04,12150.12,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10022,2026-04-03,Atlanta,Blue Ridge Services,Support,4,538.95,2155.8,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10023,2026-01-22,Atlanta,Crescent Health,Consulting,5,4787.8,23939.0,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10024,2026-05-21,Atlanta,Pioneer Manufacturing,Consulting,2,3639.0,7278.0,Morgan Davis,Cancelled,Atlanta_Transactions.csv
+ATL-10025,2026-05-19,Atlanta,Summit Financial,Automation,4,7786.18,31144.72,Morgan Davis,Pending,Atlanta_Transactions.csv
+ATL-10026,2026-04-26,Atlanta,Northstar Logistics,Support,4,2299.23,9196.92,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10027,2026-05-22,Atlanta,Summit Financial,Implementation,3,2605.17,7815.51,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10028,2026-01-16,Atlanta,Summit Financial,Implementation,1,6039.2,6039.2,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10029,2026-03-13,Atlanta,Crescent Health,Support,1,1528.31,1528.31,Taylor Smith,Cancelled,Atlanta_Transactions.csv
+ATL-10030,2026-03-04,Atlanta,Crescent Health,Consulting,5,3304.85,16524.25,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10031,2026-04-01,Atlanta,Vertex Technology,Implementation,1,5794.91,5794.91,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10032,2026-07-06,Atlanta,Evergreen Retail,Implementation,1,2803.06,2803.06,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10033,2026-02-05,Atlanta,Vertex Technology,Consulting,2,3145.14,6290.28,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10034,2026-01-20,Atlanta,Crescent Health,Data Services,2,5435.19,10870.38,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10035,2026-01-24,Atlanta,Summit Financial,Implementation,5,6680.14,33400.7,Taylor Smith,Pending,Atlanta_Transactions.csv
+ATL-10036,2026-04-13,Atlanta,Atlas Medical,Data Services,4,2461.86,9847.44,Taylor Smith,Pending,Atlanta_Transactions.csv
+ATL-10037,2026-07-20,Atlanta,Crescent Health,Implementation,4,3826.02,15304.08,Morgan Davis,Pending,Atlanta_Transactions.csv
+ATL-10038,2026-03-17,Atlanta,Summit Financial,Automation,4,2928.78,11715.12,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10039,2026-01-15,Atlanta,Atlas Medical,Automation,1,6487.85,6487.85,Casey Brown,Pending,Atlanta_Transactions.csv
+ATL-10040,2026-05-11,Atlanta,Northstar Logistics,Automation,5,2944.6,14723.0,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10041,2026-03-02,Atlanta,Vertex Technology,Automation,1,6051.28,6051.28,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10042,2026-06-08,Atlanta,Northstar Logistics,Consulting,5,3378.08,16890.4,Alex Johnson,Cancelled,Atlanta_Transactions.csv
+ATL-10043,2026-03-08,Atlanta,Summit Financial,Automation,5,3898.22,19491.1,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10044,2026-06-15,Atlanta,Blue Ridge Services,Support,4,761.76,3047.04,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10045,2026-05-25,Atlanta,Northstar Logistics,Implementation,1,4791.43,4791.43,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10046,2026-03-31,Atlanta,Northstar Logistics,Consulting,5,2060.8,10304.0,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10047,2026-05-20,Atlanta,Blue Ridge Services,Support,2,1376.37,2752.74,Casey Brown,Cancelled,Atlanta_Transactions.csv
+ATL-10048,2026-06-19,Atlanta,Northstar Logistics,Implementation,5,3996.89,19984.45,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10049,2026-02-09,Atlanta,Blue Ridge Services,Implementation,1,6212.08,6212.08,Morgan Davis,Cancelled,Atlanta_Transactions.csv
+ATL-10050,2026-06-12,Atlanta,Blue Ridge Services,Consulting,3,1814.39,5443.17,Casey Brown,Pending,Atlanta_Transactions.csv
+ATL-10051,2026-04-19,Atlanta,Blue Ridge Services,Support,1,684.6,684.6,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10052,2026-03-09,Atlanta,Pioneer Manufacturing,Support,2,1774.23,3548.46,Alex Johnson,Cancelled,Atlanta_Transactions.csv
+ATL-10053,2026-01-20,Atlanta,Pioneer Manufacturing,Data Services,5,1543.51,7717.55,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10054,2026-04-21,Atlanta,Pioneer Manufacturing,Support,5,1605.05,8025.25,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10055,2026-02-23,Atlanta,Summit Financial,Support,1,2297.85,2297.85,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10056,2026-07-11,Atlanta,Pioneer Manufacturing,Automation,4,7843.02,31372.08,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10057,2026-07-08,Atlanta,Evergreen Retail,Consulting,4,1099.15,4396.6,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10058,2026-01-28,Atlanta,Vertex Technology,Support,0,2074.75,4149.5,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10059,2026-04-28,Atlanta,Evergreen Retail,Consulting,2,4266.35,8532.7,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10060,2026-04-13,Atlanta,Evergreen Retail,Consulting,1,3640.13,3640.13,,Completed,Atlanta_Transactions.csv
+ATL-10061,2026-04-13,Atlanta,Oakline Partners,Support,3,1782.96,5348.88,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10062,2026-03-09,Atlanta,Atlas Medical,Implementation,3,3392.84,10178.52,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10063,2026-03-22,Atlanta,Vertex Technology,Data Services,3,4778.45,14335.35,Casey Brown,Cancelled,Atlanta_Transactions.csv
+ATL-10064,2026-02-18,Atlanta,Blue Ridge Services,Implementation,4,6997.52,27990.08,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10065,2026-05-18,Atlanta,Summit Financial,Implementation,5,7127.88,35639.4,Morgan Davis,Pending,Atlanta_Transactions.csv
+ATL-10066,2026-06-19,Atlanta,Northstar Logistics,Implementation,3,5615.78,16847.34,Morgan Davis,Cancelled,Atlanta_Transactions.csv
+ATL-10067,2026-06-28,Atlanta,Blue Ridge Services,Support,4,1152.37,4609.48,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10068,2026-04-08,Atlanta,Pioneer Manufacturing,Consulting,4,3659.72,14638.88,Casey Brown,Cancelled,Atlanta_Transactions.csv
+ATL-10069,2026-01-01,Atlanta,Blue Ridge Services,Support,4,1595.87,6383.48,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10070,2026-03-24,Atlanta,Crescent Health,Data Services,5,4229.98,21149.9,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10071,2026-07-23,Atlanta,Pioneer Manufacturing,Consulting,5,2892.74,14463.7,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10072,2026-07-29,Atlanta,Summit Financial,Automation,5,4011.13,20055.65,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10073,2026-03-04,Atlanta,Crescent Health,Consulting,2,1097.7,-2195.4,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10074,2026-05-28,Atlanta,Summit Financial,Data Services,4,5487.62,21950.48,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10075,2026-06-26,Atlanta,Atlas Medical,Data Services,2,2164.07,4328.14,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10076,2026-06-28,Atlanta,Oakline Partners,Consulting,2,4216.44,8432.88,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10077,2026-02-01,Atlanta,Crescent Health,Automation,2,7504.82,15009.64,Taylor Smith,Pending,Atlanta_Transactions.csv
+ATL-10078,2026-07-13,Atlanta,Crescent Health,Automation,5,5572.71,27863.55,Casey Brown,Cancelled,Atlanta_Transactions.csv
+ATL-10079,2026-02-10,Atlanta,Crescent Health,Data Services,5,3506.61,17533.05,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10080,2026-05-14,Atlanta,Crescent Health,Consulting,3,4063.25,12189.75,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10081,2026-03-02,Atlanta,Blue Ridge Services,Data Services,1,4710.95,4710.95,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10082,2026-03-01,Atlanta,Vertex Technology,Automation,1,2830.24,2830.24,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10083,2026-05-19,Atlanta,Crescent Health,Implementation,4,4538.0,18152.0,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10084,2026-07-17,Atlanta,Redwood Operations,Consulting,4,2557.91,10231.64,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10085,2026-04-01,Atlanta,Blue Ridge Services,Data Services,4,1526.53,6106.12,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10086,2026-02-26,Atlanta,Crescent Health,Automation,5,6799.21,33996.05,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10087,2026-03-28,Atlanta,Vertex Technology,Data Services,4,1630.61,6522.44,Taylor Smith,Pending,Atlanta_Transactions.csv
+ATL-10088,2026-04-11,Atlanta,Redwood Operations,Consulting,5,3136.49,15682.45,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10089,2026-04-29,Atlanta,Pioneer Manufacturing,Implementation,4,3178.5,12714.0,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10090,2026-03-25,Atlanta,Evergreen Retail,Data Services,3,2452.47,7357.41,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10091,2026-05-01,Atlanta,Atlas Medical,Data Services,3,5257.1,15771.3,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10092,2026-07-19,Atlanta,Atlas Medical,Support,2,1800.29,3600.58,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10093,2026-03-03,Atlanta,Pioneer Manufacturing,Consulting,1,3485.34,3485.34,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10094,2026-03-07,Atlanta,Evergreen Retail,Automation,2,4790.2,9580.4,Taylor Smith,Cancelled,Atlanta_Transactions.csv
+ATL-10095,2026-02-11,Atlanta,Blue Ridge Services,Automation,1,6666.75,6666.75,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10096,2026-04-07,Atlanta,Vertex Technology,Implementation,3,5378.98,16136.94,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10097,2026-07-17,Atlanta,Blue Ridge Services,Automation,2,2611.41,5222.82,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10098,2026-04-20,Atlanta,Evergreen Retail,Automation,1,4083.22,4083.22,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10099,2026-07-30,Atlanta,Crescent Health,Support,1,2199.15,2199.15,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10100,2026-04-22,Atlanta,Pioneer Manufacturing,Support,4,1914.62,7658.48,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10101,2026-04-30,Atlanta,Vertex Technology,Automation,5,6647.85,33239.25,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10102,2026-01-23,Atlanta,Blue Ridge Services,Support,2,2161.46,4322.92,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10103,2026-04-08,Atlanta,Evergreen Retail,Data Services,5,4246.49,21232.45,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10104,2026-04-01,Atlanta,Blue Ridge Services,Support,2,1475.1,2950.2,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10105,2026-05-13,Atlanta,Summit Financial,Automation,3,5334.75,16004.25,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10106,2026-03-03,Atlanta,Crescent Health,Data Services,4,3998.29,15993.16,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10107,2026-04-14,Atlanta,Summit Financial,Implementation,1,3971.18,3971.18,Morgan Davis,Cancelled,Atlanta_Transactions.csv
+ATL-10108,2026-03-30,Atlanta,Vertex Technology,Support,4,1606.95,6427.8,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10109,2026-03-06,Atlanta,Summit Financial,Support,4,1041.83,4167.32,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10110,2026-07-15,Atlanta,Pioneer Manufacturing,Support,1,1985.76,1985.76,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10111,2026-07-14,Atlanta,Oakline Partners,Data Services,3,4760.63,14281.89,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10112,2026-04-03,Atlanta,Pioneer Manufacturing,Implementation,2,3981.23,7962.46,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10113,2026-01-14,Atlanta,Oakline Partners,Automation,2,3645.87,7291.74,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10114,2026-05-27,Atlanta,Blue Ridge Services,Data Services,1,5427.24,5427.24,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10115,2026-01-14,Atlanta,Blue Ridge Services,Data Services,3,2329.64,6988.92,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10116,2026-05-28,Atlanta,Atlas Medical,Implementation,4,4958.73,19834.92,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10117,2026-03-05,Atlanta,Northstar Logistics,Automation,3,2511.09,7533.27,Casey Brown,Pending,Atlanta_Transactions.csv
+ATL-10118,2026-02-27,Atlanta,Oakline Partners,Automation,5,6744.44,33722.2,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10119,2026-04-20,Atlanta,Blue Ridge Services,Data Services,3,5370.75,16112.25,Casey Brown,Cancelled,Atlanta_Transactions.csv
+ATL-10120,2026-01-26,Atlanta,Summit Financial,Implementation,5,7300.54,36502.7,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10121,2026-05-22,Atlanta,Northstar Logistics,Implementation,2,3699.33,7398.66,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10122,2026-05-01,Atlanta,Blue Ridge Services,Data Services,4,4602.17,18408.68,Jordan Lee,Completed,Atlanta_Transactions.csv
+ATL-10123,2026-04-27,Atlanta,Northstar Logistics,Support,3,1905.98,5717.94,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10124,2026-05-20,Atlanta,,Automation,2,4550.83,9101.66,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10125,2026-07-22,Atlanta,Blue Ridge Services,Consulting,1,1238.55,1238.55,Casey Brown,Cancelled,Atlanta_Transactions.csv
+ATL-10126,2026-06-26,Atlanta,Blue Ridge Services,Support,4,748.71,2994.84,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10127,2026-01-21,Atlanta,Redwood Operations,Automation,5,4962.77,24813.85,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10128,2026-01-24,Atlanta,Summit Financial,Support,5,1000.74,5003.7,Casey Brown,Cancelled,Atlanta_Transactions.csv
+ATL-10129,2026-07-15,Atlanta,Pioneer Manufacturing,Implementation,3,5381.23,16143.69,Alex Johnson,Cancelled,Atlanta_Transactions.csv
+ATL-10130,2026-05-30,Atlanta,Vertex Technology,Data Services,3,2316.7,6950.1,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10131,2026-03-24,Atlanta,Northstar Logistics,Data Services,3,3337.57,10012.71,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10132,2026-04-13,Atlanta,Oakline Partners,Data Services,4,2796.98,11187.92,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10133,2026-01-30,Atlanta,Vertex Technology,Implementation,3,3761.99,11285.97,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10134,2026-02-18,Atlanta,Oakline Partners,Automation,4,4479.49,17917.96,Morgan Davis,Cancelled,Atlanta_Transactions.csv
+ATL-10135,2026-02-22,Atlanta,Blue Ridge Services,Data Services,4,4919.96,19679.84,Casey Brown,Completed,Atlanta_Transactions.csv
+ATL-10136,2026-05-05,Atlanta,Northstar Logistics,Support,4,2261.69,9046.76,Jordan Lee,Cancelled,Atlanta_Transactions.csv
+ATL-10137,2026-01-04,Atlanta,Oakline Partners,Consulting,2,2243.0,4486.0,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10138,2026-01-31,Atlanta,,Consulting,1,2845.79,2845.79,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10139,2026-05-04,Atlanta,Crescent Health,Automation,3,4492.94,13478.82,Taylor Smith,Pending,Atlanta_Transactions.csv
+ATL-10140,2026-06-03,Atlanta,Oakline Partners,Automation,2,4301.52,8603.04,Taylor Smith,Completed,Atlanta_Transactions.csv
+ATL-10141,2026-07-21,Atlanta,Oakline Partners,Support,4,1179.75,4719.0,Morgan Davis,Completed,Atlanta_Transactions.csv
+ATL-10142,2026-05-29,Atlanta,Crescent Health,Support,3,2174.95,6524.85,Taylor Smith,Pending,Atlanta_Transactions.csv
+ATL-10143,2026-05-22,Atlanta,Oakline Partners,Automation,4,4070.74,16282.96,Alex Johnson,Pending,Atlanta_Transactions.csv
+ATL-10144,2026-03-03,Atlanta,Redwood Operations,Support,2,2461.55,4923.1,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10145,2026-05-02,Atlanta,Vertex Technology,Data Services,1,2931.79,2931.79,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10146,2026-06-01,Atlanta,Evergreen Retail,Data Services,1,2068.11,2068.11,Jordan Lee,Pending,Atlanta_Transactions.csv
+ATL-10147,2026-01-04,Atlanta,Pioneer Manufacturing,Implementation,5,7052.21,35261.05,Alex Johnson,Completed,Atlanta_Transactions.csv
+ATL-10148,2026-03-09,Atlanta,Evergreen Retail,Implementation,4,6407.63,25630.52,Casey Brown,Pending,Atlanta_Transactions.csv
+ATL-10149,2026-08-08,Atlanta,Oakline Partners,Implementation,3,6761.71,20285.13,Alex Johnson,Completed,Atlanta_Transactions.csv
+CHA-10000,2026-04-06,Charlotte,Vertex Technology,Support,1,1086.74,1086.74,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10001,2026-07-22,Charlotte,Pioneer Manufacturing,Automation,4,5395.57,21582.28,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10002,2026-06-08,Charlotte,Summit Financial,Implementation,5,6854.2,34271.0,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10003,2026-03-07,Charlotte,Crescent Health,Consulting,2,2844.6,5689.2,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10004,2026-02-10,Charlotte,Northstar Logistics,Data Services,3,4549.25,13647.75,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10005,2026-04-19,Charlotte,Blue Ridge Services,Automation,3,5833.63,17500.89,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10006,2026-01-28,Charlotte,Summit Financial,Consulting,4,4413.34,17653.36,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10007,2026-06-29,Charlotte,Blue Ridge Services,Support,5,1091.74,5458.7,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10008,2026-06-25,Charlotte,Atlas Medical,Support,1,1631.86,1631.86,Casey Brown,Pending,Charlotte_Transactions.xlsx
+CHA-10009,2026-04-01,Charlotte,,Support,2,1714.13,3428.26,Taylor Smith,Cancelled,Charlotte_Transactions.xlsx
+CHA-10010,2026-06-10,Charlotte,Atlas Medical,Support,2,1756.5,3513.0,Morgan Davis,Pending,Charlotte_Transactions.xlsx
+CHA-10011,2026-02-03,Charlotte,Northstar Logistics,Implementation,5,4324.31,21621.55,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10012,2026-07-21,Charlotte,Oakline Partners,Data Services,2,2403.58,4807.16,Morgan Davis,Cancelled,Charlotte_Transactions.xlsx
+CHA-10013,2026-03-07,Charlotte,Crescent Health,Automation,3,6982.84,20948.52,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10014,2026-02-06,Charlotte,Summit Financial,Implementation,4,7314.47,29257.88,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10015,2026-01-04,Charlotte,Blue Ridge Services,Support,1,2081.36,2081.36,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10016,2026-06-22,Charlotte,Blue Ridge Services,Data Services,3,4527.73,13583.19,Casey Brown,Pending,Charlotte_Transactions.xlsx
+CHA-10017,2026-05-01,Charlotte,Atlas Medical,Support,1,1849.67,1849.67,Casey Brown,Cancelled,Charlotte_Transactions.xlsx
+CHA-10018,2026-01-17,Charlotte,Crescent Health,Support,5,942.73,4713.65,Morgan Davis,Pending,Charlotte_Transactions.xlsx
+CHA-10019,2026-01-10,Charlotte,Blue Ridge Services,Implementation,2,2726.73,5453.46,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10020,2026-02-04,Charlotte,Vertex Technology,Implementation,2,6936.3,13872.6,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10021,2026-07-06,Charlotte,Pioneer Manufacturing,Automation,4,5524.04,22096.16,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10022,2026-03-13,Charlotte,Atlas Medical,Data Services,5,3336.52,16682.6,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10023,2026-08-07,Charlotte,Evergreen Retail,Data Services,4,5777.5,23110.0,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10024,2026-03-12,Charlotte,Summit Financial,Automation,3,2363.3,7089.9,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10025,2026-06-02,Charlotte,Atlas Medical,Implementation,2,5708.52,11417.04,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10026,2026-02-22,Charlotte,Northstar Logistics,Consulting,2,4147.91,8295.82,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10027,2026-03-01,Charlotte,Evergreen Retail,Automation,2,6878.32,13756.64,Taylor Smith,Cancelled,Charlotte_Transactions.xlsx
+CHA-10028,2026-02-07,Charlotte,Pioneer Manufacturing,Implementation,3,6792.03,20376.09,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10029,2026-01-07,Charlotte,Pioneer Manufacturing,Consulting,1,3644.23,3644.23,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10030,2026-02-14,Charlotte,Blue Ridge Services,Consulting,5,2295.09,11475.45,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10031,2026-01-17,Charlotte,Crescent Health,Data Services,5,2011.42,10057.1,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10032,2026-05-09,Charlotte,Summit Financial,Automation,5,2654.32,13271.6,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10033,2026-01-08,Charlotte,Atlas Medical,Automation,3,4748.26,14244.78,Alex Johnson,Pending,Charlotte_Transactions.xlsx
+CHA-10034,2026-04-24,Charlotte,Northstar Logistics,Data Services,1,3706.21,3706.21,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10035,2026-03-12,Charlotte,,Automation,2,2394.09,4788.18,Casey Brown,Cancelled,Charlotte_Transactions.xlsx
+CHA-10036,2026-05-16,Charlotte,Blue Ridge Services,Support,4,2489.26,9957.04,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10037,2026-06-29,Charlotte,Northstar Logistics,Automation,4,2595.07,10380.28,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10038,2026-04-16,Charlotte,Evergreen Retail,Data Services,0,5496.41,21985.64,Alex Johnson,Pending,Charlotte_Transactions.xlsx
+CHA-10039,2026-03-22,Charlotte,Blue Ridge Services,Data Services,1,2906.47,2906.47,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10040,2026-01-22,Charlotte,Northstar Logistics,Data Services,1,1910.51,1910.51,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10041,2026-05-31,Charlotte,Oakline Partners,Support,2,1612.74,3225.48,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10042,2026-06-20,Charlotte,Vertex Technology,Implementation,4,4267.99,17071.96,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10043,2026-05-28,Charlotte,Oakline Partners,Automation,3,4109.88,12329.64,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10044,2026-03-31,Charlotte,Oakline Partners,Data Services,2,5312.74,10625.48,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10045,2026-04-20,Charlotte,Oakline Partners,Support,5,952.32,4761.6,Casey Brown,Cancelled,Charlotte_Transactions.xlsx
+CHA-10046,2026-06-18,Charlotte,Blue Ridge Services,Automation,1,5653.97,5653.97,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10047,2026-03-31,Charlotte,Atlas Medical,Support,3,2343.08,7029.24,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10048,2026-07-09,Charlotte,Atlas Medical,Automation,4,2417.51,9670.04,Jordan Lee,Cancelled,Charlotte_Transactions.xlsx
+CHA-10049,2026-03-29,Charlotte,Pioneer Manufacturing,Consulting,4,2679.33,10717.32,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10050,2026-08-15,Charlotte,Atlas Medical,Support,5,1692.45,8462.25,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10051,2026-03-11,Charlotte,Crescent Health,Automation,1,6043.81,6043.81,Alex Johnson,Pending,Charlotte_Transactions.xlsx
+CHA-10052,2026-02-25,Charlotte,Oakline Partners,Automation,4,4485.1,17940.4,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10053,2026-06-23,Charlotte,Redwood Operations,Data Services,1,2774.61,2774.61,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10054,2026-06-03,Charlotte,Atlas Medical,Support,1,941.04,941.04,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10055,2026-07-15,Charlotte,Blue Ridge Services,Support,2,2034.7,4069.4,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10056,2026-04-21,Charlotte,Pioneer Manufacturing,Implementation,1,4986.93,4986.93,Taylor Smith,Pending,Charlotte_Transactions.xlsx
+CHA-10057,2026-08-02,Charlotte,Evergreen Retail,Automation,2,5001.57,10003.14,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10058,2026-01-20,Charlotte,Evergreen Retail,Implementation,4,2593.71,10374.84,Casey Brown,Pending,Charlotte_Transactions.xlsx
+CHA-10059,2026-04-17,Charlotte,Blue Ridge Services,Automation,4,6256.99,25027.96,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10060,2026-06-08,Charlotte,Crescent Health,Implementation,3,3359.37,10078.11,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10061,2026-05-31,Charlotte,Vertex Technology,Data Services,1,2594.92,2594.92,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10062,2026-02-26,Charlotte,Evergreen Retail,Data Services,3,4856.12,14568.36,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10063,2026-02-19,Charlotte,Evergreen Retail,Automation,1,5183.63,5183.63,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10064,2026-02-20,Charlotte,Pioneer Manufacturing,Consulting,1,1585.78,1585.78,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10065,2026-06-10,Charlotte,Crescent Health,Implementation,2,7256.46,14512.92,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10066,2026-08-14,Charlotte,Redwood Operations,Automation,4,6086.8,24347.2,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10067,2026-05-01,Charlotte,Crescent Health,Support,2,1379.53,2759.06,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10068,2026-01-19,Charlotte,Blue Ridge Services,Automation,1,4111.65,4111.65,Alex Johnson,Pending,Charlotte_Transactions.xlsx
+CHA-10069,2026-03-15,Charlotte,Northstar Logistics,Implementation,1,4343.69,4343.69,Jordan Lee,Cancelled,Charlotte_Transactions.xlsx
+CHA-10070,2026-05-29,Charlotte,Oakline Partners,Automation,5,4306.89,21534.45,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10071,2026-05-02,Charlotte,Oakline Partners,Automation,2,3929.16,7858.32,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10072,2026-08-03,Charlotte,Evergreen Retail,Data Services,1,5149.35,5149.35,Jordan Lee,Cancelled,Charlotte_Transactions.xlsx
+CHA-10073,2026-04-23,Charlotte,Crescent Health,Consulting,1,1990.97,1990.97,Casey Brown,Cancelled,Charlotte_Transactions.xlsx
+CHA-10074,2026-03-14,Charlotte,Vertex Technology,Automation,2,4183.39,8366.78,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10075,2026-06-15,Charlotte,Evergreen Retail,Automation,1,6735.36,6735.36,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10076,,Charlotte,Blue Ridge Services,Implementation,5,5891.9,29459.5,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10077,2026-02-06,Charlotte,Evergreen Retail,Support,1,1665.48,1665.48,Morgan Davis,Pending,Charlotte_Transactions.xlsx
+CHA-10078,2026-01-22,Charlotte,Blue Ridge Services,Consulting,5,3835.34,19176.7,Casey Brown,Pending,Charlotte_Transactions.xlsx
+CHA-10079,2026-08-01,Charlotte,Oakline Partners,Support,2,1840.23,3680.46,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10080,2026-03-21,Charlotte,Pioneer Manufacturing,Automation,3,2109.38,6328.14,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10081,2026-02-05,Charlotte,Pioneer Manufacturing,Data Services,2,2519.44,5038.88,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10082,2026-08-02,Charlotte,Oakline Partners,Implementation,5,6354.37,31771.85,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10083,2026-02-09,Charlotte,Pioneer Manufacturing,Automation,2,5583.48,11166.96,Taylor Smith,Cancelled,Charlotte_Transactions.xlsx
+CHA-10084,2026-04-04,Charlotte,Summit Financial,Consulting,4,1174.77,4699.08,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10085,2026-03-03,Charlotte,,Support,4,968.01,3872.04,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10086,2026-04-29,Charlotte,Blue Ridge Services,Support,5,2468.88,12344.4,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10087,2026-07-29,Charlotte,Summit Financial,Automation,4,7797.61,31190.44,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10088,2026-08-12,Charlotte,Evergreen Retail,Support,1,1782.36,1782.36,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10089,2026-07-15,Charlotte,Pioneer Manufacturing,Automation,1,3710.38,3710.38,Morgan Davis,Pending,Charlotte_Transactions.xlsx
+CHA-10090,2026-01-24,Charlotte,Summit Financial,Automation,2,6986.28,13972.56,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10091,2026-05-09,Charlotte,Evergreen Retail,Implementation,4,2766.28,11065.12,Taylor Smith,Pending,Charlotte_Transactions.xlsx
+CHA-10092,2026-03-23,Charlotte,Northstar Logistics,Implementation,3,3622.69,10868.07,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10093,2026-08-01,Charlotte,Crescent Health,Consulting,1,2147.52,2147.52,Taylor Smith,Pending,Charlotte_Transactions.xlsx
+CHA-10094,2026-01-21,Charlotte,Atlas Medical,Data Services,5,1523.63,7618.15,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10095,2026-06-05,Charlotte,Oakline Partners,Consulting,5,4760.9,23804.5,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10096,2026-01-13,Charlotte,Summit Financial,Support,2,1102.3,2204.6,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10097,2026-05-08,Charlotte,Redwood Operations,Data Services,1,1998.86,1998.86,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10098,2026-02-06,Charlotte,Blue Ridge Services,Automation,5,3451.63,17258.15,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10099,2026-04-17,Charlotte,Pioneer Manufacturing,Automation,3,3443.39,10330.17,Jordan Lee,Cancelled,Charlotte_Transactions.xlsx
+CHA-10100,2026-05-20,Charlotte,Oakline Partners,Support,1,2406.81,2406.81,Casey Brown,Cancelled,Charlotte_Transactions.xlsx
+CHA-10101,2026-01-12,Charlotte,Vertex Technology,Implementation,4,6866.66,27466.64,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10102,2026-03-30,Charlotte,Summit Financial,Implementation,3,6442.6,19327.8,Jordan Lee,Cancelled,Charlotte_Transactions.xlsx
+CHA-10103,2026-05-20,Charlotte,Evergreen Retail,Support,2,588.67,1177.34,Taylor Smith,Pending,Charlotte_Transactions.xlsx
+CHA-10104,2026-01-17,Charlotte,Crescent Health,Data Services,2,5151.74,10303.48,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10105,2026-08-15,Charlotte,Atlas Medical,Consulting,1,4164.44,4164.44,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10106,2026-05-20,Charlotte,Crescent Health,Automation,4,7934.74,31738.96,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10107,2026-07-19,Charlotte,Atlas Medical,Consulting,3,2427.9,7283.7,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10108,2026-04-13,Charlotte,Crescent Health,Implementation,3,4684.76,14054.28,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10109,2026-04-05,Charlotte,Oakline Partners,Consulting,4,3768.27,15073.08,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10110,2026-07-30,Charlotte,Pioneer Manufacturing,Data Services,1,3437.73,3437.73,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10111,2026-06-19,Charlotte,Blue Ridge Services,Support,1,660.14,660.14,Morgan Davis,Pending,Charlotte_Transactions.xlsx
+CHA-10112,2026-04-24,Charlotte,Evergreen Retail,Automation,4,2999.87,11999.48,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10113,2026-03-12,Charlotte,Atlas Medical,Support,5,2496.3,12481.5,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10114,2026-06-23,Charlotte,Pioneer Manufacturing,Support,5,2102.19,10510.95,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10115,2026-01-18,Charlotte,Summit Financial,Automation,4,2208.79,8835.16,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10116,2026-02-09,Charlotte,Crescent Health,Data Services,5,1645.73,-8228.65,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10117,2026-05-16,Charlotte,Evergreen Retail,Data Services,1,4082.65,4082.65,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10118,2026-01-07,Charlotte,Pioneer Manufacturing,Support,2,2421.04,4842.08,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10119,2026-07-18,Charlotte,Blue Ridge Services,Data Services,5,2029.92,10149.6,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10120,2026-05-06,Charlotte,Summit Financial,Automation,3,6163.88,18491.64,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10121,2026-07-02,Charlotte,Crescent Health,Implementation,4,3363.28,13453.12,,Completed,Charlotte_Transactions.xlsx
+CHA-10122,2026-03-16,Charlotte,Blue Ridge Services,Support,1,1599.99,1599.99,Taylor Smith,Completed,Charlotte_Transactions.xlsx
+CHA-10123,2026-02-21,Charlotte,Pioneer Manufacturing,Support,5,948.48,4742.4,Taylor Smith,Pending,Charlotte_Transactions.xlsx
+CHA-10124,2026-04-05,Charlotte,Crescent Health,Implementation,3,5270.11,15810.33,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10125,2026-04-12,Charlotte,Crescent Health,Automation,1,2394.49,2394.49,Casey Brown,Pending,Charlotte_Transactions.xlsx
+CHA-10126,2026-03-23,Charlotte,Northstar Logistics,Data Services,5,1831.88,9159.4,Alex Johnson,Pending,Charlotte_Transactions.xlsx
+CHA-10127,2026-08-01,Charlotte,Oakline Partners,Automation,3,2770.01,8310.03,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10128,2026-08-11,Charlotte,Atlas Medical,Consulting,4,3011.46,12045.84,Jordan Lee,Cancelled,Charlotte_Transactions.xlsx
+CHA-10129,2026-03-24,Charlotte,Summit Financial,Consulting,3,1658.63,4975.89,Morgan Davis,Cancelled,Charlotte_Transactions.xlsx
+CHA-10130,2026-06-12,Charlotte,Oakline Partners,Support,1,1001.21,1001.21,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10131,2026-05-09,Charlotte,Pioneer Manufacturing,Support,5,1566.96,7834.8,Casey Brown,Cancelled,Charlotte_Transactions.xlsx
+CHA-10132,2026-07-04,Charlotte,Redwood Operations,Consulting,2,3634.93,7269.86,,Cancelled,Charlotte_Transactions.xlsx
+CHA-10133,2026-06-14,Charlotte,Redwood Operations,Implementation,1,2906.11,2906.11,Morgan Davis,Completed,Charlotte_Transactions.xlsx
+CHA-10134,2026-01-08,Charlotte,Crescent Health,Automation,4,5708.65,22834.6,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10135,2026-07-26,Charlotte,Vertex Technology,Support,4,989.76,3959.04,Morgan Davis,Pending,Charlotte_Transactions.xlsx
+CHA-10136,2026-04-17,Charlotte,Crescent Health,Implementation,1,3290.4,3290.4,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10137,2026-08-09,Charlotte,Evergreen Retail,Support,5,787.34,3936.7,Morgan Davis,Pending,Charlotte_Transactions.xlsx
+CHA-10138,2026-01-28,Charlotte,Evergreen Retail,Consulting,3,3059.92,9179.76,Taylor Smith,Pending,Charlotte_Transactions.xlsx
+CHA-10139,2026-02-06,Charlotte,Northstar Logistics,Implementation,3,4747.98,14243.94,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+CHA-10140,2026-08-10,Charlotte,Pioneer Manufacturing,Data Services,5,3381.61,16908.05,Morgan Davis,Cancelled,Charlotte_Transactions.xlsx
+CHA-10141,2026-05-08,Charlotte,Oakline Partners,Support,2,2026.24,4052.48,Alex Johnson,Pending,Charlotte_Transactions.xlsx
+CHA-10142,2026-04-11,Charlotte,Oakline Partners,Support,4,546.35,2185.4,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10143,2026-01-13,Charlotte,Blue Ridge Services,Consulting,5,2411.58,12057.9,Alex Johnson,Cancelled,Charlotte_Transactions.xlsx
+CHA-10144,2026-08-05,Charlotte,Northstar Logistics,Data Services,3,3915.11,11745.33,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10145,2026-04-04,Charlotte,Atlas Medical,Support,3,2027.71,6083.13,Alex Johnson,Completed,Charlotte_Transactions.xlsx
+CHA-10146,2026-05-22,Charlotte,Blue Ridge Services,Automation,5,3167.93,15839.65,Jordan Lee,Pending,Charlotte_Transactions.xlsx
+CHA-10147,2026-03-13,Charlotte,Redwood Operations,Automation,4,6586.42,26345.68,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10148,2026-07-23,Charlotte,Evergreen Retail,Consulting,1,2575.61,2575.61,Casey Brown,Completed,Charlotte_Transactions.xlsx
+CHA-10149,2026-04-13,Charlotte,Oakline Partners,Consulting,2,3409.85,6819.7,Jordan Lee,Completed,Charlotte_Transactions.xlsx
+DAL-10000,2026-01-20,Dallas,Pioneer Manufacturing,Implementation,1,3567.11,3567.11,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10001,2026-06-28,Dallas,Evergreen Retail,Automation,4,2055.72,8222.88,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10002,2026-04-09,Dallas,Northstar Logistics,Consulting,4,1283.31,5133.24,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10003,2026-02-05,Dallas,Vertex Technology,Support,3,2261.98,6785.94,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10004,2026-06-06,Dallas,Pioneer Manufacturing,Implementation,5,5316.46,26582.3,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10005,2026-06-07,Dallas,Crescent Health,Consulting,2,4679.58,9359.16,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10006,2026-05-31,Dallas,Vertex Technology,Implementation,2,6262.23,12524.46,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10007,2026-06-15,Dallas,Northstar Logistics,Support,2,995.57,1991.14,Taylor Smith,Cancelled,Dallas_Transactions.xlsx
+DAL-10008,2026-03-14,Dallas,Atlas Medical,Automation,5,6327.08,31635.4,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10009,2026-07-11,Dallas,Vertex Technology,Automation,5,5057.14,25285.7,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10010,2026-03-03,Dallas,Crescent Health,Consulting,4,2543.54,10174.16,,Completed,Dallas_Transactions.xlsx
+DAL-10011,2026-03-23,Dallas,Pioneer Manufacturing,Automation,1,7921.3,7921.3,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10012,2026-02-14,Dallas,Crescent Health,Data Services,3,3958.6,11875.8,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10013,2026-02-25,Dallas,Atlas Medical,Automation,1,2082.76,2082.76,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10014,2026-05-09,Dallas,Vertex Technology,Automation,3,5771.42,17314.26,Alex Johnson,Pending,Dallas_Transactions.xlsx
+DAL-10015,2026-02-09,Dallas,Blue Ridge Services,Implementation,5,5188.28,25941.4,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10016,2026-07-26,Dallas,Pioneer Manufacturing,Implementation,5,7104.62,35523.1,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10017,2026-08-02,Dallas,Northstar Logistics,Data Services,5,4354.32,21771.6,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10018,2026-04-22,Dallas,Northstar Logistics,Consulting,1,1977.92,1977.92,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10019,2026-07-09,Dallas,Pioneer Manufacturing,Automation,1,3855.74,3855.74,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10020,2026-03-30,Dallas,Oakline Partners,Consulting,1,1655.33,1655.33,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10021,2026-07-19,Dallas,Blue Ridge Services,Consulting,3,1507.72,4523.16,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10022,2026-01-17,Dallas,Blue Ridge Services,Support,4,1043.96,4175.84,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10023,2026-01-15,Dallas,Crescent Health,Data Services,4,3798.52,15194.08,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10024,2026-01-27,Dallas,Redwood Operations,Support,2,1010.23,2020.46,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10025,2026-08-09,Dallas,Atlas Medical,Automation,1,2264.23,2264.23,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10026,2026-02-08,Dallas,Pioneer Manufacturing,Data Services,3,3223.41,9670.23,Jordan Lee,Cancelled,Dallas_Transactions.xlsx
+DAL-10027,2026-04-17,Dallas,Evergreen Retail,Data Services,2,2948.11,5896.22,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10028,2026-06-22,Dallas,Atlas Medical,Automation,3,2716.41,8149.23,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10029,2026-01-18,Dallas,Crescent Health,Automation,1,7724.48,7724.48,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10030,2026-01-03,Dallas,Evergreen Retail,Support,1,1606.18,1606.18,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10031,2026-03-04,Dallas,Crescent Health,Automation,3,6437.46,19312.38,Morgan Davis,Cancelled,Dallas_Transactions.xlsx
+DAL-10032,2026-05-20,Dallas,Summit Financial,Data Services,2,4796.09,9592.18,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10033,2026-03-30,Dallas,Atlas Medical,Data Services,1,2548.49,2548.49,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10034,2026-05-16,Dallas,Summit Financial,Data Services,3,1967.77,5903.31,Alex Johnson,Pending,Dallas_Transactions.xlsx
+DAL-10035,2026-01-24,Dallas,Atlas Medical,Implementation,2,6058.26,12116.52,Taylor Smith,Cancelled,Dallas_Transactions.xlsx
+DAL-10036,2026-07-11,Dallas,Northstar Logistics,Data Services,3,3563.06,10689.18,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10037,2026-04-11,Dallas,Northstar Logistics,Automation,2,5823.29,11646.58,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10038,2026-02-03,Dallas,Summit Financial,Implementation,4,5812.22,23248.88,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10039,2026-07-08,Dallas,Evergreen Retail,Support,4,1901.45,7605.8,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10040,2026-02-21,Dallas,Pioneer Manufacturing,Support,2,649.37,1298.74,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10041,2026-04-30,Dallas,,Consulting,1,1657.5,1657.5,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10042,2026-02-23,Dallas,Crescent Health,Automation,3,7787.81,23363.43,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10043,2026-07-26,Dallas,Blue Ridge Services,Support,1,680.84,680.84,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10044,2026-07-02,Dallas,Summit Financial,Consulting,3,1593.3,4779.9,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10045,2026-03-08,Dallas,Pioneer Manufacturing,Automation,1,6063.1,6063.1,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10046,2026-03-05,Dallas,Northstar Logistics,Data Services,5,4866.35,24331.75,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10047,2026-08-01,Dallas,Summit Financial,Consulting,1,1047.83,1047.83,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10048,2026-06-15,Dallas,Northstar Logistics,Data Services,3,4588.28,13764.84,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10049,2026-01-17,Dallas,Summit Financial,Support,1,543.6,543.6,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10050,2026-04-29,Dallas,Atlas Medical,Implementation,3,3112.64,9337.92,Taylor Smith,Cancelled,Dallas_Transactions.xlsx
+DAL-10051,2026-04-08,Dallas,Vertex Technology,Data Services,4,3732.57,14930.28,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10052,2026-04-25,Dallas,Pioneer Manufacturing,Consulting,2,2099.93,4199.86,Jordan Lee,Cancelled,Dallas_Transactions.xlsx
+DAL-10053,2026-03-17,Dallas,Crescent Health,Automation,0,3474.71,17373.55,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10054,2026-04-09,Dallas,Pioneer Manufacturing,Data Services,1,1894.75,1894.75,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10055,2026-07-25,Dallas,Oakline Partners,Automation,2,5784.53,11569.06,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10056,2026-05-05,Dallas,Evergreen Retail,Support,4,1589.04,6356.16,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10057,2026-01-07,Dallas,Evergreen Retail,Support,4,1040.87,4163.48,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10058,2026-05-01,Dallas,Oakline Partners,Implementation,3,2792.96,8378.88,Morgan Davis,Cancelled,Dallas_Transactions.xlsx
+DAL-10059,2026-06-18,Dallas,Summit Financial,Consulting,2,1400.54,2801.08,Morgan Davis,Cancelled,Dallas_Transactions.xlsx
+DAL-10060,2026-07-24,Dallas,Vertex Technology,Implementation,2,5378.46,10756.92,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10061,2026-07-26,Dallas,Evergreen Retail,Consulting,2,3370.08,6740.16,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10062,2026-05-25,Dallas,Summit Financial,Support,5,1627.21,8136.05,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10063,2026-01-24,Dallas,Atlas Medical,Support,2,1480.87,2961.74,Taylor Smith,Cancelled,Dallas_Transactions.xlsx
+DAL-10064,2026-01-01,Dallas,Evergreen Retail,Consulting,1,3105.79,3105.79,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10065,2026-07-25,Dallas,Evergreen Retail,Consulting,3,3867.75,11603.25,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10066,2026-02-06,Dallas,Northstar Logistics,Consulting,5,3818.79,19093.95,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10067,2026-06-19,Dallas,Vertex Technology,Implementation,3,6022.69,18068.07,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10068,2026-02-10,Dallas,Vertex Technology,Support,3,1145.21,3435.63,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10069,2026-06-07,Dallas,Evergreen Retail,Consulting,5,3774.24,18871.2,Taylor Smith,Cancelled,Dallas_Transactions.xlsx
+DAL-10070,2026-06-26,Dallas,Blue Ridge Services,Consulting,4,2227.29,8909.16,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10071,2026-07-17,Dallas,Redwood Operations,Implementation,5,4458.01,22290.05,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10072,2026-06-06,Dallas,Summit Financial,Automation,3,7526.23,22578.69,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10073,2026-01-20,Dallas,Summit Financial,Data Services,2,2990.26,5980.52,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10074,2026-06-21,Dallas,Evergreen Retail,Consulting,1,4286.65,4286.65,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10075,2026-01-18,Dallas,,Support,2,999.08,1998.16,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10076,2026-07-07,Dallas,Vertex Technology,Implementation,1,4429.69,4429.69,Taylor Smith,Pending,Dallas_Transactions.xlsx
+DAL-10077,2026-04-07,Dallas,Northstar Logistics,Data Services,4,3080.54,12322.16,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10078,2026-07-24,Dallas,Atlas Medical,Consulting,2,2805.15,5610.3,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10079,2026-01-19,Dallas,Evergreen Retail,Support,3,2403.32,7209.96,Taylor Smith,Pending,Dallas_Transactions.xlsx
+DAL-10080,2026-01-24,Dallas,Evergreen Retail,Consulting,1,3188.19,3188.19,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10081,2026-06-17,Dallas,Pioneer Manufacturing,Data Services,1,3440.96,3440.96,Casey Brown,Pending,Dallas_Transactions.xlsx
+DAL-10082,2026-02-22,Dallas,Summit Financial,Consulting,1,1405.03,1405.03,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10083,2026-03-18,Dallas,Summit Financial,Automation,3,5963.59,17890.77,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10084,2026-05-06,Dallas,Pioneer Manufacturing,Data Services,5,3973.48,19867.4,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10085,2026-07-30,Dallas,Redwood Operations,Implementation,4,2938.14,11752.56,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10086,2026-06-13,Dallas,Blue Ridge Services,Implementation,1,3534.76,3534.76,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10087,2026-05-01,Dallas,Crescent Health,Implementation,3,6424.38,19273.14,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10088,2026-08-15,Dallas,Vertex Technology,Automation,4,3109.29,12437.16,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10089,2026-04-30,Dallas,Blue Ridge Services,Data Services,1,2684.83,2684.83,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10090,2026-06-28,Dallas,Northstar Logistics,Automation,1,2906.78,2906.78,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10091,2026-05-31,Dallas,Summit Financial,Automation,4,7824.23,31296.92,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10092,2026-05-18,Dallas,Crescent Health,Data Services,5,3383.84,16919.2,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10093,2026-08-07,Dallas,Atlas Medical,Data Services,3,1855.3,5565.9,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10094,2026-06-08,Dallas,Pioneer Manufacturing,Automation,5,6065.21,30326.05,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10095,2026-07-26,Dallas,Summit Financial,Consulting,2,4888.66,9777.32,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10096,2026-04-22,Dallas,Summit Financial,Data Services,1,5947.26,5947.26,Taylor Smith,Cancelled,Dallas_Transactions.xlsx
+DAL-10097,2026-07-26,Dallas,Northstar Logistics,Support,3,2321.61,6964.83,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10098,2026-08-08,Dallas,Blue Ridge Services,Automation,4,5312.33,21249.32,Casey Brown,Pending,Dallas_Transactions.xlsx
+DAL-10099,2026-07-20,Dallas,Vertex Technology,Implementation,5,5437.88,27189.4,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10100,2026-05-30,Dallas,Northstar Logistics,Consulting,2,3266.38,6532.76,Jordan Lee,Cancelled,Dallas_Transactions.xlsx
+DAL-10101,2026-08-14,Dallas,Evergreen Retail,Implementation,3,6837.38,20512.14,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10102,2026-05-02,Dallas,Atlas Medical,Data Services,4,4074.1,16296.4,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10103,2026-06-24,Dallas,Vertex Technology,Data Services,2,4282.1,8564.2,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10104,2026-05-02,Dallas,,Support,2,598.58,1197.16,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10105,2026-08-04,Dallas,Crescent Health,Support,3,1121.9,3365.7,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10106,2026-04-24,Dallas,Evergreen Retail,Consulting,3,4896.88,14690.64,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10107,2026-02-24,Dallas,Vertex Technology,Automation,1,3127.61,3127.61,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10108,2026-02-10,Dallas,Northstar Logistics,Support,1,1530.54,1530.54,Morgan Davis,Cancelled,Dallas_Transactions.xlsx
+DAL-10109,2026-05-15,Dallas,Redwood Operations,Data Services,2,5012.32,10024.64,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10110,2026-03-05,Dallas,Atlas Medical,Consulting,2,4347.91,8695.82,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10111,2026-07-30,Dallas,Crescent Health,Support,2,1047.95,2095.9,Casey Brown,Pending,Dallas_Transactions.xlsx
+DAL-10112,2026-05-06,Dallas,Redwood Operations,Implementation,1,3709.69,3709.69,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10113,2026-03-30,Dallas,Pioneer Manufacturing,Data Services,5,3981.0,19905.0,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10114,2026-02-11,Dallas,Redwood Operations,Support,1,1273.13,1273.13,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10115,2026-04-15,Dallas,Oakline Partners,Consulting,2,2076.33,4152.66,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10116,2026-06-03,Dallas,Atlas Medical,Data Services,2,4413.17,8826.34,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10117,2026-07-01,Dallas,Blue Ridge Services,Automation,3,6276.44,18829.32,Alex Johnson,Pending,Dallas_Transactions.xlsx
+DAL-10118,2026-04-30,Dallas,Blue Ridge Services,Support,4,1004.0,4016.0,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10119,2026-05-11,Dallas,Evergreen Retail,Data Services,5,1960.4,9802.0,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10120,2026-01-28,Dallas,Crescent Health,Automation,3,3790.86,11372.58,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10121,2026-03-08,Dallas,Blue Ridge Services,Support,3,2222.98,6668.94,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10122,2026-07-26,Dallas,Redwood Operations,Automation,2,7398.12,14796.24,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10123,2026-03-17,Dallas,Blue Ridge Services,Consulting,1,3621.6,3621.6,Alex Johnson,Pending,Dallas_Transactions.xlsx
+DAL-10124,2026-05-27,Dallas,Summit Financial,Data Services,1,4123.61,4123.61,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10125,2026-06-21,Dallas,Evergreen Retail,Automation,4,7439.16,29756.64,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10126,2026-01-25,Dallas,Crescent Health,Consulting,5,1724.54,8622.7,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10127,2026-03-27,Dallas,Northstar Logistics,Automation,2,7681.54,-15363.08,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10128,2026-03-26,Dallas,Evergreen Retail,Consulting,3,2681.89,8045.67,Morgan Davis,Cancelled,Dallas_Transactions.xlsx
+DAL-10129,2026-05-01,Dallas,Atlas Medical,Support,4,2202.43,8809.72,Casey Brown,Cancelled,Dallas_Transactions.xlsx
+DAL-10130,2026-02-19,Dallas,Oakline Partners,Automation,1,4833.32,4833.32,Jordan Lee,Pending,Dallas_Transactions.xlsx
+DAL-10131,2026-08-11,Dallas,Pioneer Manufacturing,Automation,3,4478.64,13435.92,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10132,2026-04-28,Dallas,Pioneer Manufacturing,Support,4,2474.38,9897.52,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10133,2026-02-15,Dallas,Evergreen Retail,Implementation,4,4163.15,16652.6,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10134,2026-07-18,Dallas,Pioneer Manufacturing,Data Services,3,2442.22,7326.66,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10135,2026-04-22,Dallas,Vertex Technology,Data Services,1,2082.33,2082.33,Alex Johnson,Pending,Dallas_Transactions.xlsx
+DAL-10136,2026-05-17,Dallas,Summit Financial,Data Services,4,1521.01,6084.04,Morgan Davis,Completed,Dallas_Transactions.xlsx
+DAL-10137,2026-06-23,Dallas,Atlas Medical,Support,5,881.15,4405.75,Taylor Smith,Completed,Dallas_Transactions.xlsx
+DAL-10138,2026-04-09,Dallas,Oakline Partners,Support,3,757.86,2273.58,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10139,2026-03-18,Dallas,Blue Ridge Services,Consulting,1,4295.38,4295.38,Alex Johnson,Cancelled,Dallas_Transactions.xlsx
+DAL-10140,2026-06-25,Dallas,Pioneer Manufacturing,Automation,5,4027.01,20135.05,,Pending,Dallas_Transactions.xlsx
+DAL-10141,2026-07-27,Dallas,Vertex Technology,Support,2,829.77,1659.54,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10142,2026-01-06,Dallas,Redwood Operations,Consulting,2,1844.76,3689.52,Casey Brown,Completed,Dallas_Transactions.xlsx
+DAL-10143,2026-07-22,Dallas,Atlas Medical,Implementation,3,6055.55,18166.65,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10144,2026-01-13,Dallas,Northstar Logistics,Automation,5,2291.52,11457.6,Jordan Lee,Completed,Dallas_Transactions.xlsx
+DAL-10145,2026-02-01,Dallas,Oakline Partners,Implementation,4,4721.57,18886.28,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10146,,Dallas,Atlas Medical,Consulting,2,3780.77,7561.54,Morgan Davis,Pending,Dallas_Transactions.xlsx
+DAL-10147,2026-06-05,Dallas,Pioneer Manufacturing,Implementation,5,3849.89,19249.45,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10148,2026-01-30,Dallas,Northstar Logistics,Automation,5,2706.41,13532.05,Alex Johnson,Completed,Dallas_Transactions.xlsx
+DAL-10149,2026-08-01,Dallas,Oakline Partners,Automation,2,6667.75,13335.5,Taylor Smith,Completed,Dallas_Transactions.xlsx
+NAS-10000,2026-05-11,Nashville,Oakline Partners,Automation,3,5043.89,15131.67,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10001,2026-04-05,Nashville,Evergreen Retail,Support,4,2131.5,8526.0,Jordan Lee,Pending,Nashville_Transactions.csv
+NAS-10002,2026-07-05,Nashville,Atlas Medical,Automation,3,6780.53,20341.59,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10003,2026-07-04,Nashville,Atlas Medical,Support,5,1655.27,8276.35,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10004,2026-06-08,Nashville,Vertex Technology,Consulting,5,3516.1,17580.5,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10005,2026-01-29,Nashville,Summit Financial,Implementation,5,7241.03,36205.15,Jordan Lee,Pending,Nashville_Transactions.csv
+NAS-10006,2026-06-26,Nashville,Summit Financial,Support,4,802.86,3211.44,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10007,2026-07-08,Nashville,Atlas Medical,Automation,4,7236.91,28947.64,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10008,2026-06-19,Nashville,Crescent Health,Consulting,5,2300.2,11501.0,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10009,2026-05-17,Nashville,Evergreen Retail,Support,2,1419.33,2838.66,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10010,2026-03-05,Nashville,Blue Ridge Services,Support,5,1468.36,7341.8,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10011,2026-06-30,Nashville,Summit Financial,Consulting,3,4084.7,12254.1,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10012,2026-07-23,Nashville,Blue Ridge Services,Data Services,3,4022.19,12066.57,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10013,2026-04-12,Nashville,Evergreen Retail,Automation,5,4278.17,21390.85,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10014,2026-01-21,Nashville,Evergreen Retail,Implementation,3,7276.57,21829.71,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10015,2026-05-18,Nashville,Blue Ridge Services,Data Services,2,2409.31,4818.62,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10016,2026-05-31,Nashville,Summit Financial,Consulting,1,3462.71,3462.71,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10017,2026-01-14,Nashville,Northstar Logistics,Automation,2,5827.67,11655.34,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10018,2026-02-05,Nashville,Atlas Medical,Data Services,1,4565.36,4565.36,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10019,2026-02-21,Nashville,Blue Ridge Services,Data Services,4,3648.52,14594.08,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10020,2026-03-01,Nashville,Oakline Partners,Implementation,1,5761.49,5761.49,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10021,2026-01-10,Nashville,Vertex Technology,Data Services,2,5702.65,-11405.3,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10022,2026-05-26,Nashville,Redwood Operations,Support,1,518.53,518.53,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10023,,Nashville,,Support,4,2478.2,9912.8,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10024,2026-07-27,Nashville,Northstar Logistics,Automation,4,3637.02,14548.08,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10025,2026-01-04,Nashville,Evergreen Retail,Data Services,3,4733.69,14201.07,Morgan Davis,Cancelled,Nashville_Transactions.csv
+NAS-10026,2026-06-13,Nashville,Vertex Technology,Consulting,2,3443.82,6887.64,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10027,2026-01-25,Nashville,Pioneer Manufacturing,Support,1,1301.67,1301.67,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10028,2026-04-09,Nashville,Summit Financial,Support,2,513.66,1027.32,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10029,2026-05-27,Nashville,Atlas Medical,Support,3,1664.92,4994.76,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10030,2026-04-30,Nashville,Blue Ridge Services,Consulting,1,3671.14,3671.14,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10031,2026-06-13,Nashville,Blue Ridge Services,Automation,3,6141.74,18425.22,Morgan Davis,Cancelled,Nashville_Transactions.csv
+NAS-10032,2026-05-03,Nashville,Pioneer Manufacturing,Consulting,2,4829.44,9658.88,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10033,2026-05-01,Nashville,Oakline Partners,Support,4,1903.88,7615.52,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10034,2026-05-16,Nashville,Evergreen Retail,Automation,1,5153.04,5153.04,Jordan Lee,Cancelled,Nashville_Transactions.csv
+NAS-10035,2026-05-10,Nashville,Summit Financial,Implementation,1,6643.87,6643.87,Casey Brown,Cancelled,Nashville_Transactions.csv
+NAS-10036,2026-05-14,Nashville,Crescent Health,Consulting,2,2312.47,4624.94,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10037,2026-05-11,Nashville,Crescent Health,Automation,4,2545.65,10182.6,Jordan Lee,Pending,Nashville_Transactions.csv
+NAS-10038,2026-05-25,Nashville,Atlas Medical,Consulting,5,2661.7,13308.5,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10039,2026-07-29,Nashville,Atlas Medical,Support,1,1291.9,1291.9,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10040,2026-06-29,Nashville,,Implementation,1,4618.49,4618.49,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10041,2026-04-15,Nashville,Pioneer Manufacturing,Implementation,4,2658.67,10634.68,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10042,2026-04-07,Nashville,Vertex Technology,Support,4,1397.07,5588.28,Jordan Lee,Cancelled,Nashville_Transactions.csv
+NAS-10043,2026-05-18,Nashville,Vertex Technology,Consulting,3,1474.53,4423.59,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10044,2026-03-18,Nashville,Crescent Health,Consulting,1,4024.72,4024.72,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10045,2026-03-05,Nashville,Crescent Health,Automation,4,6940.16,27760.64,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10046,2026-07-05,Nashville,Northstar Logistics,Support,2,2374.82,4749.64,Jordan Lee,Pending,Nashville_Transactions.csv
+NAS-10047,2026-01-18,Nashville,Northstar Logistics,Automation,1,3444.0,3444.0,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10048,2026-08-12,Nashville,Atlas Medical,Data Services,5,4524.11,22620.55,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10049,2026-02-25,Nashville,Atlas Medical,Data Services,4,2554.53,10218.12,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10050,2026-07-07,Nashville,Redwood Operations,Support,2,2131.57,4263.14,Morgan Davis,Cancelled,Nashville_Transactions.csv
+NAS-10051,2026-08-13,Nashville,Pioneer Manufacturing,Automation,3,3421.42,10264.26,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10052,2026-05-23,Nashville,Redwood Operations,Data Services,3,2738.19,8214.57,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10053,2026-03-30,Nashville,Vertex Technology,Automation,4,2281.3,9125.2,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10054,2026-04-07,Nashville,Pioneer Manufacturing,Data Services,4,2171.48,8685.92,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10055,2026-07-01,Nashville,Pioneer Manufacturing,Consulting,2,2202.95,4405.9,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10056,2026-05-23,Nashville,Oakline Partners,Automation,4,7806.72,31226.88,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10057,2026-06-15,Nashville,Northstar Logistics,Consulting,3,1813.35,5440.05,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10058,2026-02-18,Nashville,Atlas Medical,Implementation,5,6122.92,30614.6,Morgan Davis,Pending,Nashville_Transactions.csv
+NAS-10059,2026-01-19,Nashville,Summit Financial,Automation,5,2237.29,11186.45,Casey Brown,Cancelled,Nashville_Transactions.csv
+NAS-10060,2026-03-27,Nashville,Blue Ridge Services,Consulting,4,1835.56,7342.24,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10061,2026-07-13,Nashville,Crescent Health,Consulting,1,3987.52,3987.52,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10062,2026-05-22,Nashville,Evergreen Retail,Consulting,4,4660.51,18642.04,Morgan Davis,Pending,Nashville_Transactions.csv
+NAS-10063,2026-03-20,Nashville,Blue Ridge Services,Data Services,5,4419.25,22096.25,Morgan Davis,Cancelled,Nashville_Transactions.csv
+NAS-10064,2026-07-04,Nashville,Crescent Health,Data Services,4,1943.74,7774.96,,Completed,Nashville_Transactions.csv
+NAS-10065,2026-05-25,Nashville,Summit Financial,Support,3,1327.86,3983.58,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10066,2026-05-29,Nashville,Vertex Technology,Support,5,2369.52,11847.6,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10067,2026-05-26,Nashville,Summit Financial,Consulting,3,1920.07,5760.21,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10068,2026-05-06,Nashville,Crescent Health,Support,3,2026.72,6080.16,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10069,2026-05-20,Nashville,Crescent Health,Support,2,779.92,1559.84,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10070,2026-08-05,Nashville,,Implementation,5,2669.12,13345.6,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10071,2026-03-01,Nashville,Northstar Logistics,Data Services,2,5291.45,10582.9,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10072,2026-01-16,Nashville,Redwood Operations,Consulting,5,2824.04,14120.2,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10073,2026-05-22,Nashville,Vertex Technology,Data Services,1,1529.76,1529.76,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10074,2026-03-15,Nashville,Atlas Medical,Automation,3,5214.43,15643.29,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10075,2026-05-15,Nashville,Pioneer Manufacturing,Consulting,1,4672.2,4672.2,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10076,2026-04-01,Nashville,Blue Ridge Services,Automation,5,3514.51,17572.55,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10077,2026-03-04,Nashville,Summit Financial,Support,4,1418.0,5672.0,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10078,2026-04-07,Nashville,Oakline Partners,Implementation,1,4526.39,4526.39,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10079,2026-08-05,Nashville,Vertex Technology,Implementation,2,2913.43,5826.86,Morgan Davis,Cancelled,Nashville_Transactions.csv
+NAS-10080,2026-02-28,Nashville,Summit Financial,Implementation,5,7095.76,35478.8,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10081,2026-06-25,Nashville,Blue Ridge Services,Support,1,2348.32,2348.32,Casey Brown,Cancelled,Nashville_Transactions.csv
+NAS-10082,2026-03-22,Nashville,Atlas Medical,Implementation,2,7143.83,14287.66,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10083,2026-03-18,Nashville,Pioneer Manufacturing,Consulting,4,4715.5,18862.0,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10084,2026-05-19,Nashville,Evergreen Retail,Automation,4,6062.21,24248.84,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10085,2026-03-30,Nashville,Atlas Medical,Implementation,5,6227.28,31136.4,Jordan Lee,Pending,Nashville_Transactions.csv
+NAS-10086,2026-07-16,Nashville,Redwood Operations,Consulting,1,2362.37,2362.37,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10087,2026-07-20,Nashville,Crescent Health,Support,1,1768.25,1768.25,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10088,2026-04-21,Nashville,Pioneer Manufacturing,Support,5,2382.29,11911.45,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10089,2026-03-05,Nashville,Northstar Logistics,Implementation,5,3976.9,19884.5,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10090,2026-06-12,Nashville,Pioneer Manufacturing,Consulting,4,3846.71,15386.84,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10091,2026-03-20,Nashville,Crescent Health,Support,1,683.04,683.04,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10092,2026-04-21,Nashville,Crescent Health,Implementation,2,2936.49,5872.98,,Cancelled,Nashville_Transactions.csv
+NAS-10093,2026-01-23,Nashville,Evergreen Retail,Automation,4,2619.76,10479.04,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10094,2026-08-10,Nashville,Vertex Technology,Automation,5,6706.63,33533.15,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10095,2026-07-05,Nashville,Oakline Partners,Data Services,0,5006.26,20025.04,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10096,2026-02-13,Nashville,Pioneer Manufacturing,Automation,2,6111.9,12223.8,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10097,2026-02-12,Nashville,Vertex Technology,Support,4,791.87,3167.48,Morgan Davis,Pending,Nashville_Transactions.csv
+NAS-10098,2026-04-03,Nashville,Blue Ridge Services,Support,4,2065.33,8261.32,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10099,2026-01-28,Nashville,Pioneer Manufacturing,Automation,5,3173.29,15866.45,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10100,2026-04-08,Nashville,Evergreen Retail,Data Services,3,5287.26,15861.78,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10101,2026-03-24,Nashville,Redwood Operations,Data Services,5,2112.56,10562.8,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10102,2026-03-23,Nashville,Blue Ridge Services,Support,2,2429.15,4858.3,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10103,2026-07-29,Nashville,Vertex Technology,Consulting,3,2504.22,7512.66,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10104,2026-05-20,Nashville,Pioneer Manufacturing,Automation,2,5553.36,11106.72,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10105,2026-03-16,Nashville,Northstar Logistics,Data Services,2,3473.05,6946.1,Alex Johnson,Pending,Nashville_Transactions.csv
+NAS-10106,2026-06-18,Nashville,Pioneer Manufacturing,Consulting,3,1968.08,5904.24,Alex Johnson,Pending,Nashville_Transactions.csv
+NAS-10107,2026-05-03,Nashville,Redwood Operations,Implementation,4,7453.5,29814.0,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10108,2026-07-22,Nashville,Evergreen Retail,Automation,4,5261.87,21047.48,Casey Brown,Cancelled,Nashville_Transactions.csv
+NAS-10109,2026-06-18,Nashville,Evergreen Retail,Implementation,1,6344.77,6344.77,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10110,2026-06-23,Nashville,Vertex Technology,Implementation,5,7418.04,37090.2,Morgan Davis,Pending,Nashville_Transactions.csv
+NAS-10111,2026-02-26,Nashville,Oakline Partners,Implementation,1,2993.03,2993.03,Casey Brown,Cancelled,Nashville_Transactions.csv
+NAS-10112,2026-04-06,Nashville,Vertex Technology,Automation,5,3326.19,16630.95,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10113,2026-01-07,Nashville,Crescent Health,Automation,2,4069.8,8139.6,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10114,2026-07-06,Nashville,Pioneer Manufacturing,Data Services,1,2022.31,2022.31,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10115,2026-05-14,Nashville,Crescent Health,Support,4,2068.54,8274.16,Morgan Davis,Pending,Nashville_Transactions.csv
+NAS-10116,2026-04-26,Nashville,Evergreen Retail,Implementation,4,6109.97,24439.88,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10117,2026-03-29,Nashville,Northstar Logistics,Implementation,1,2612.93,2612.93,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10118,2026-03-26,Nashville,Oakline Partners,Automation,2,5311.46,10622.92,Alex Johnson,Pending,Nashville_Transactions.csv
+NAS-10119,2026-02-17,Nashville,Vertex Technology,Consulting,4,3519.04,14076.16,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10120,2026-04-20,Nashville,Vertex Technology,Automation,2,4697.45,9394.9,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10121,2026-07-27,Nashville,Northstar Logistics,Consulting,3,4009.3,12027.9,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10122,2026-02-20,Nashville,Crescent Health,Automation,2,4194.76,8389.52,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10123,2026-03-22,Nashville,Redwood Operations,Data Services,5,5846.62,29233.1,Alex Johnson,Cancelled,Nashville_Transactions.csv
+NAS-10124,2026-04-01,Nashville,Crescent Health,Data Services,5,2014.04,10070.2,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10125,2026-06-22,Nashville,Pioneer Manufacturing,Support,5,1680.34,8401.7,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10126,2026-04-06,Nashville,Pioneer Manufacturing,Consulting,3,1467.8,4403.4,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10127,2026-04-09,Nashville,Vertex Technology,Data Services,5,2120.4,10602.0,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10128,2026-05-06,Nashville,Blue Ridge Services,Automation,2,5329.48,10658.96,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10129,2026-08-10,Nashville,Evergreen Retail,Support,4,1738.82,6955.28,Jordan Lee,Pending,Nashville_Transactions.csv
+NAS-10130,2026-05-24,Nashville,Oakline Partners,Consulting,2,4260.86,8521.72,Alex Johnson,Pending,Nashville_Transactions.csv
+NAS-10131,2026-04-24,Nashville,Crescent Health,Data Services,4,4695.64,18782.56,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10132,2026-02-26,Nashville,Blue Ridge Services,Automation,1,6775.29,6775.29,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10133,2026-07-19,Nashville,Crescent Health,Consulting,5,2154.68,10773.4,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10134,2026-01-30,Nashville,Blue Ridge Services,Automation,5,2679.27,13396.35,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10135,2026-04-23,Nashville,Oakline Partners,Automation,1,6560.02,6560.02,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10136,2026-01-09,Nashville,Crescent Health,Implementation,2,3988.54,7977.08,Morgan Davis,Completed,Nashville_Transactions.csv
+NAS-10137,2026-01-31,Nashville,Summit Financial,Implementation,4,6826.45,27305.8,Taylor Smith,Cancelled,Nashville_Transactions.csv
+NAS-10138,2026-02-12,Nashville,Redwood Operations,Support,5,1765.54,8827.7,Taylor Smith,Completed,Nashville_Transactions.csv
+NAS-10139,2026-05-17,Nashville,Blue Ridge Services,Consulting,1,3280.3,3280.3,Casey Brown,Cancelled,Nashville_Transactions.csv
+NAS-10140,2026-03-16,Nashville,Blue Ridge Services,Consulting,3,4916.0,14748.0,Casey Brown,Completed,Nashville_Transactions.csv
+NAS-10141,2026-07-12,Nashville,Vertex Technology,Automation,1,2813.53,2813.53,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10142,2026-07-02,Nashville,Evergreen Retail,Consulting,2,1998.71,3997.42,Taylor Smith,Pending,Nashville_Transactions.csv
+NAS-10143,2026-03-10,Nashville,Vertex Technology,Data Services,2,4098.41,8196.82,Alex Johnson,Pending,Nashville_Transactions.csv
+NAS-10144,2026-07-11,Nashville,Blue Ridge Services,Implementation,1,4514.25,4514.25,Morgan Davis,Pending,Nashville_Transactions.csv
+NAS-10145,2026-08-11,Nashville,Northstar Logistics,Data Services,3,4118.8,12356.4,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10146,2026-04-20,Nashville,Summit Financial,Implementation,5,4488.58,22442.9,Alex Johnson,Completed,Nashville_Transactions.csv
+NAS-10147,2026-05-28,Nashville,Pioneer Manufacturing,Support,3,1175.51,3526.53,Casey Brown,Pending,Nashville_Transactions.csv
+NAS-10148,2026-06-10,Nashville,Crescent Health,Support,1,591.89,591.89,Jordan Lee,Completed,Nashville_Transactions.csv
+NAS-10149,2026-04-20,Nashville,Summit Financial,Consulting,4,2826.07,11304.28,Taylor Smith,Completed,Nashville_Transactions.csv

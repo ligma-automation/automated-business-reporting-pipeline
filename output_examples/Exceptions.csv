@@ -1,0 +1,57 @@
+Row_Index,Transaction_ID,Issue
+14,ATL-10014,Duplicate Transaction ID
+75,ATL-10075,Duplicate Transaction ID
+98,ATL-10098,Duplicate Transaction ID
+150,ATL-10014,Duplicate Transaction ID
+151,ATL-10098,Duplicate Transaction ID
+152,ATL-10075,Duplicate Transaction ID
+167,CHA-10014,Duplicate Transaction ID
+228,CHA-10075,Duplicate Transaction ID
+251,CHA-10098,Duplicate Transaction ID
+303,CHA-10014,Duplicate Transaction ID
+304,CHA-10098,Duplicate Transaction ID
+305,CHA-10075,Duplicate Transaction ID
+320,DAL-10014,Duplicate Transaction ID
+381,DAL-10075,Duplicate Transaction ID
+404,DAL-10098,Duplicate Transaction ID
+456,DAL-10014,Duplicate Transaction ID
+457,DAL-10098,Duplicate Transaction ID
+458,DAL-10075,Duplicate Transaction ID
+473,NAS-10014,Duplicate Transaction ID
+534,NAS-10075,Duplicate Transaction ID
+557,NAS-10098,Duplicate Transaction ID
+609,NAS-10014,Duplicate Transaction ID
+610,NAS-10098,Duplicate Transaction ID
+611,NAS-10075,Duplicate Transaction ID
+9,ATL-10009,Missing Customer
+124,ATL-10124,Missing Customer
+138,ATL-10138,Missing Customer
+162,CHA-10009,Missing Customer
+188,CHA-10035,Missing Customer
+238,CHA-10085,Missing Customer
+347,DAL-10041,Missing Customer
+381,DAL-10075,Missing Customer
+410,DAL-10104,Missing Customer
+482,NAS-10023,Missing Customer
+499,NAS-10040,Missing Customer
+529,NAS-10070,Missing Customer
+17,ATL-10017,Missing Sales Rep
+60,ATL-10060,Missing Sales Rep
+274,CHA-10121,Missing Sales Rep
+285,CHA-10132,Missing Sales Rep
+316,DAL-10010,Missing Sales Rep
+446,DAL-10140,Missing Sales Rep
+523,NAS-10064,Missing Sales Rep
+551,NAS-10092,Missing Sales Rep
+11,ATL-10011,Invalid Transaction Date
+229,CHA-10076,Invalid Transaction Date
+452,DAL-10146,Invalid Transaction Date
+482,NAS-10023,Invalid Transaction Date
+58,ATL-10058,Invalid Quantity
+191,CHA-10038,Invalid Quantity
+359,DAL-10053,Invalid Quantity
+554,NAS-10095,Invalid Quantity
+73,ATL-10073,Invalid Revenue
+269,CHA-10116,Invalid Revenue
+433,DAL-10127,Invalid Revenue
+480,NAS-10021,Invalid Revenue

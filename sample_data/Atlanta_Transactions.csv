@@ -1,0 +1,154 @@
+Transaction_ID,Transaction_Date,Location,Customer,Product_Service,Quantity,Unit_Price,Revenue,Sales_Rep,Status
+ATL-10000,2026-03-04,Atlanta,Summit Financial,Implementation,1,6207.75,6207.75,Taylor Smith,Completed
+ATL-10001,2026-01-09,Atlanta,Atlas Medical,Automation,1,5542.96,5542.96,Jordan Lee,Completed
+ATL-10002,2026-05-24,Atlanta,Summit Financial,Consulting,5,3408.07,17040.35,Casey Brown,Pending
+ATL-10003,2026-07-27,Atlanta,Atlas Medical,Consulting,4,3357.06,13428.24,Taylor Smith,Pending
+ATL-10004,2026-07-15,Atlanta,Evergreen Retail,Support,3,810.96,2432.88,Jordan Lee,Completed
+ATL-10005,2026-03-30,Atlanta,Redwood Operations,Data Services,1,3115.41,3115.41,Morgan Davis,Completed
+ATL-10006,2026-04-07,Atlanta,Northstar Logistics,Data Services,5,2061.72,10308.6,Casey Brown,Completed
+ATL-10007,2026-06-30,Atlanta,Northstar Logistics,Automation,3,5464.11,16392.33,Jordan Lee,Completed
+ATL-10008,2026-08-10,Atlanta,Northstar Logistics,Support,1,2210.64,2210.64,Alex Johnson,Completed
+ATL-10009,2026-04-01,Atlanta,,Data Services,3,2231.94,6695.82,Morgan Davis,Completed
+ATL-10010,2026-03-04,Atlanta,Pioneer Manufacturing,Automation,2,5204.84,10409.68,Alex Johnson,Pending
+ATL-10011,INVALID_DATE,Atlanta,Atlas Medical,Support,5,939.23,4696.15,Taylor Smith,Completed
+ATL-10012,2026-02-24,Atlanta,Redwood Operations,Support,4,1035.48,4141.92,Morgan Davis,Completed
+ATL-10013,2026-06-14,Atlanta,Crescent Health,Data Services,4,5481.07,21924.28,Taylor Smith,Completed
+ATL-10014,2026-05-18,Atlanta,Blue Ridge Services,Consulting,2,3979.96,7959.92,Casey Brown,Pending
+ATL-10015,2026-02-05,Atlanta,Oakline Partners,Automation,4,4171.98,16687.92,Alex Johnson,Completed
+ATL-10016,2026-02-10,Atlanta,Vertex Technology,Implementation,1,3264.21,3264.21,Casey Brown,Completed
+ATL-10017,2026-04-30,Atlanta,Oakline Partners,Data Services,4,4181.5,16726.0,,Cancelled
+ATL-10018,2026-05-18,Atlanta,Blue Ridge Services,Implementation,1,5908.55,5908.55,Morgan Davis,Completed
+ATL-10019,2026-01-01,Atlanta,Blue Ridge Services,Support,4,816.32,3265.28,Casey Brown,Completed
+ATL-10020,2026-03-18,Atlanta,Oakline Partners,Automation,1,7223.11,7223.11,Casey Brown,Completed
+ATL-10021,2026-05-19,Atlanta,Oakline Partners,Consulting,3,4050.04,12150.12,Jordan Lee,Cancelled
+ATL-10022,2026-04-03,Atlanta,Blue Ridge Services,Support,4,538.95,2155.8,Taylor Smith,Completed
+ATL-10023,2026-01-22,ATLANTA,Crescent Health,Consulting,5,4787.8,23939.0,Jordan Lee,Cancelled
+ATL-10024,2026-05-21,Atlanta,Pioneer Manufacturing,Consulting,2,3639.0,7278.0,Morgan Davis,Cancelled
+ATL-10025,2026-05-19,Atlanta ,Summit Financial,Automation,4,7786.18,31144.72,Morgan Davis,Pending
+ATL-10026,2026-04-26,Atlanta,Northstar Logistics,Support,4,2299.23,9196.92,Taylor Smith,Completed
+ATL-10027,2026-05-22,Atlanta,Summit Financial,Implementation,3,2605.17,7815.51,Casey Brown,Completed
+ATL-10028,2026-01-16,Atlanta,Summit Financial,Implementation,1,6039.2,6039.2,Jordan Lee,Completed
+ATL-10029,2026-03-13,Atlanta,Crescent Health,Support,1,1528.31,1528.31,Taylor Smith,Cancelled
+ATL-10030,2026-03-04,Atlanta,Crescent Health,Consulting,5,3304.85,16524.25,Alex Johnson,Completed
+ATL-10031,2026-04-01,Atlanta,Vertex Technology,Implementation,1,5794.91,5794.91,Alex Johnson,Pending
+ATL-10032,2026-07-06,Atlanta,Evergreen Retail,Implementation,1,2803.06,2803.06,Jordan Lee,Completed
+ATL-10033,2026-02-05,Atlanta,Vertex Technology,Consulting,2,3145.14,6290.28,Taylor Smith,Completed
+ATL-10034,2026-01-20,Atlanta,Crescent Health,Data Services,2,5435.19,10870.38,Casey Brown,Completed
+ATL-10035,2026-01-24,Atlanta,Summit Financial,Implementation,5,6680.14,33400.7,Taylor Smith,Pending
+ATL-10036,2026-04-13,Atlanta,Atlas Medical,Data Services,4,2461.86,9847.44,Taylor Smith,Pending
+ATL-10037,2026-07-20,Atlanta,Crescent Health,Implementation,4,3826.02,15304.08,Morgan Davis,Pending
+ATL-10038,2026-03-17,Atlanta,Summit Financial,Automation,4,2928.78,11715.12,Jordan Lee,Cancelled
+ATL-10039,2026-01-15,Atlanta,Atlas Medical,Automation,1,6487.85,6487.85,Casey Brown,Pending
+ATL-10040,2026-05-11,Atlanta,Northstar Logistics,Automation,5,2944.6,14723.0,Taylor Smith,Completed
+ATL-10041,2026-03-02,Atlanta,Vertex Technology,Automation,1,6051.28,6051.28,Jordan Lee,Cancelled
+ATL-10042,2026-06-08,Atlanta,Northstar Logistics,Consulting,5,3378.08,16890.4,Alex Johnson,Cancelled
+ATL-10043,2026-03-08,Atlanta,Summit Financial,Automation,5,3898.22,19491.1,Morgan Davis,Completed
+ATL-10044,2026-06-15,Atlanta,Blue Ridge Services,Support,4,761.76,3047.04,Alex Johnson,Completed
+ATL-10045,2026-05-25,Atlanta,Northstar Logistics,Implementation,1,4791.43,4791.43,Jordan Lee,Cancelled
+ATL-10046,2026-03-31,Atlanta,Northstar Logistics,Consulting,5,2060.8,10304.0,Taylor Smith,Completed
+ATL-10047,2026-05-20,Atlanta,Blue Ridge Services,Support,2,1376.37,2752.74,Casey Brown,Cancelled
+ATL-10048,2026-06-19,Atlanta,Northstar Logistics,Implementation,5,3996.89,19984.45,Taylor Smith,Completed
+ATL-10049,2026-02-09,Atlanta,Blue Ridge Services,Implementation,1,6212.08,6212.08,Morgan Davis,Cancelled
+ATL-10050,2026-06-12,Atlanta,Blue Ridge Services,Consulting,3,1814.39,5443.17,Casey Brown,Pending
+ATL-10051,2026-04-19,Atlanta,Blue Ridge Services,Support,1,684.6,684.6,Jordan Lee,Completed
+ATL-10052,2026-03-09,Atlanta,Pioneer Manufacturing,Support,2,1774.23,3548.46,Alex Johnson,Cancelled
+ATL-10053,2026-01-20,Atlanta,Pioneer Manufacturing,Data Services,5,1543.51,7717.55,Casey Brown,Completed
+ATL-10054,2026-04-21,Atlanta,Pioneer Manufacturing,Support,5,1605.05,8025.25,Jordan Lee,Completed
+ATL-10055,2026-02-23,Atlanta,Summit Financial,Support,1,2297.85,2297.85,Jordan Lee,Completed
+ATL-10056,2026-07-11,Atlanta,Pioneer Manufacturing,Automation,4,7843.02,31372.08,Taylor Smith,Completed
+ATL-10057,2026-07-08,Atlanta,Evergreen Retail,Consulting,4,1099.15,4396.6,Alex Johnson,Completed
+ATL-10058,2026-01-28,Atlanta,Vertex Technology,Support,0,2074.75,4149.5,Jordan Lee,Pending
+ATL-10059,2026-04-28,Atlanta,Evergreen Retail,Consulting,2,4266.35,8532.7,Morgan Davis,Completed
+ATL-10060,2026-04-13,Atlanta,Evergreen Retail,Consulting,1,3640.13,3640.13,,Completed
+ATL-10061,2026-04-13,Atlanta,Oakline Partners,Support,3,1782.96,5348.88,Morgan Davis,Completed
+ATL-10062,2026-03-09,Atlanta,Atlas Medical,Implementation,3,3392.84,10178.52,Jordan Lee,Cancelled
+ATL-10063,2026-03-22,Atlanta,Vertex Technology,Data Services,3,4778.45,14335.35,Casey Brown,Cancelled
+ATL-10064,2026-02-18,Atlanta,Blue Ridge Services,Implementation,4,6997.52,27990.08,Jordan Lee,Pending
+ATL-10065,2026-05-18,Atlanta,Summit Financial,Implementation,5,7127.88,35639.4,Morgan Davis,Pending
+ATL-10066,2026-06-19,Atlanta,Northstar Logistics,Implementation,3,5615.78,16847.34,Morgan Davis,Cancelled
+ATL-10067,2026-06-28,Atlanta,Blue Ridge Services,Support,4,1152.37,4609.48,Casey Brown,Completed
+ATL-10068,2026-04-08,Atlanta,Pioneer Manufacturing,Consulting,4,3659.72,14638.88,Casey Brown,Cancelled
+ATL-10069,2026-01-01,Atlanta,Blue Ridge Services,Support,4,1595.87,6383.48,Morgan Davis,Completed
+ATL-10070,2026-03-24,Atlanta,Crescent Health,Data Services,5,4229.98,21149.9,Alex Johnson,Pending
+ATL-10071,2026-07-23,Atlanta,Pioneer Manufacturing,Consulting,5,2892.74,14463.7,Jordan Lee,Completed
+ATL-10072,2026-07-29,Atlanta,Summit Financial,Automation,5,4011.13,20055.65,Morgan Davis,Completed
+ATL-10073,2026-03-04,Atlanta,Crescent Health,Consulting,2,1097.7,-2195.4,Casey Brown,Completed
+ATL-10074,2026-05-28,Atlanta,Summit Financial,Data Services,4,5487.62,21950.48,Alex Johnson,Pending
+ATL-10075,2026-06-26,Atlanta,Atlas Medical,Data Services,2,2164.07,4328.14,Jordan Lee,Pending
+ATL-10076,2026-06-28,Atlanta,Oakline Partners,Consulting,2,4216.44,8432.88,Alex Johnson,Completed
+ATL-10077,2026-02-01,Atlanta,Crescent Health,Automation,2,7504.82,15009.64,Taylor Smith,Pending
+ATL-10078,2026-07-13,Atlanta,Crescent Health,Automation,5,5572.71,27863.55,Casey Brown,Cancelled
+ATL-10079,2026-02-10,Atlanta,Crescent Health,Data Services,5,3506.61,17533.05,Alex Johnson,Completed
+ATL-10080,2026-05-14,Atlanta,Crescent Health,Consulting,3,4063.25,12189.75,Taylor Smith,Completed
+ATL-10081,2026-03-02,Atlanta,Blue Ridge Services,Data Services,1,4710.95,4710.95,Morgan Davis,Completed
+ATL-10082,2026-03-01,Atlanta,Vertex Technology,Automation,1,2830.24,2830.24,Taylor Smith,Completed
+ATL-10083,2026-05-19,Atlanta,Crescent Health,Implementation,4,4538.0,18152.0,Alex Johnson,Completed
+ATL-10084,2026-07-17,Atlanta,Redwood Operations,Consulting,4,2557.91,10231.64,Jordan Lee,Cancelled
+ATL-10085,2026-04-01,Atlanta,Blue Ridge Services,Data Services,4,1526.53,6106.12,Alex Johnson,Pending
+ATL-10086,2026-02-26,Atlanta,Crescent Health,Automation,5,6799.21,33996.05,Taylor Smith,Completed
+ATL-10087,2026-03-28,Atlanta,Vertex Technology,Data Services,4,1630.61,6522.44,Taylor Smith,Pending
+ATL-10088,2026-04-11,Atlanta,Redwood Operations,Consulting,5,3136.49,15682.45,Casey Brown,Completed
+ATL-10089,2026-04-29,Atlanta,Pioneer Manufacturing,Implementation,4,3178.5,12714.0,Jordan Lee,Completed
+ATL-10090,2026-03-25,Atlanta,Evergreen Retail,Data Services,3,2452.47,7357.41,Alex Johnson,Completed
+ATL-10091,2026-05-01,Atlanta,Atlas Medical,Data Services,3,5257.1,15771.3,Casey Brown,Completed
+ATL-10092,2026-07-19,Atlanta,Atlas Medical,Support,2,1800.29,3600.58,Jordan Lee,Completed
+ATL-10093,2026-03-03,Atlanta,Pioneer Manufacturing,Consulting,1,3485.34,3485.34,Alex Johnson,Completed
+ATL-10094,2026-03-07,Atlanta,Evergreen Retail,Automation,2,4790.2,9580.4,Taylor Smith,Cancelled
+ATL-10095,2026-02-11,Atlanta,Blue Ridge Services,Automation,1,6666.75,6666.75,Jordan Lee,Cancelled
+ATL-10096,2026-04-07,Atlanta,Vertex Technology,Implementation,3,5378.98,16136.94,Taylor Smith,Completed
+ATL-10097,2026-07-17,Atlanta,Blue Ridge Services,Automation,2,2611.41,5222.82,Casey Brown,Completed
+ATL-10098,2026-04-20,Atlanta,Evergreen Retail,Automation,1,4083.22,4083.22,Jordan Lee,Cancelled
+ATL-10099,2026-07-30,Atlanta,Crescent Health,Support,1,2199.15,2199.15,Jordan Lee,Pending
+ATL-10100,2026-04-22,Atlanta,Pioneer Manufacturing,Support,4,1914.62,7658.48,Casey Brown,Completed
+ATL-10101,2026-04-30,Atlanta,Vertex Technology,Automation,5,6647.85,33239.25,Casey Brown,Completed
+ATL-10102,2026-01-23,Atlanta,Blue Ridge Services,Support,2,2161.46,4322.92,Alex Johnson,Completed
+ATL-10103,2026-04-08,Atlanta,Evergreen Retail,Data Services,5,4246.49,21232.45,Jordan Lee,Pending
+ATL-10104,2026-04-01,Atlanta,Blue Ridge Services,Support,2,1475.1,2950.2,Morgan Davis,Completed
+ATL-10105,2026-05-13,Atlanta,Summit Financial,Automation,3,5334.75,16004.25,Jordan Lee,Completed
+ATL-10106,2026-03-03,Atlanta,Crescent Health,Data Services,4,3998.29,15993.16,Alex Johnson,Pending
+ATL-10107,2026-04-14,Atlanta,Summit Financial,Implementation,1,3971.18,3971.18,Morgan Davis,Cancelled
+ATL-10108,2026-03-30,Atlanta,Vertex Technology,Support,4,1606.95,6427.8,Casey Brown,Completed
+ATL-10109,2026-03-06,Atlanta,Summit Financial,Support,4,1041.83,4167.32,Jordan Lee,Completed
+ATL-10110,2026-07-15,Atlanta,Pioneer Manufacturing,Support,1,1985.76,1985.76,Taylor Smith,Completed
+ATL-10111,2026-07-14,atlanta,Oakline Partners,Data Services,3,4760.63,14281.89,Casey Brown,Completed
+ATL-10112,2026-04-03,Atlanta,Pioneer Manufacturing,Implementation,2,3981.23,7962.46,Morgan Davis,Completed
+ATL-10113,2026-01-14,ATLANTA,Oakline Partners,Automation,2,3645.87,7291.74,Morgan Davis,Completed
+ATL-10114,2026-05-27,Atlanta,Blue Ridge Services,Data Services,1,5427.24,5427.24,Alex Johnson,Pending
+ATL-10115,2026-01-14,Atlanta,Blue Ridge Services,Data Services,3,2329.64,6988.92,Alex Johnson,Completed
+ATL-10116,2026-05-28,Atlanta,Atlas Medical,Implementation,4,4958.73,19834.92,Taylor Smith,Completed
+ATL-10117,2026-03-05,Atlanta,Northstar Logistics,Automation,3,2511.09,7533.27,Casey Brown,Pending
+ATL-10118,2026-02-27,Atlanta,Oakline Partners,Automation,5,6744.44,33722.2,Alex Johnson,Pending
+ATL-10119,2026-04-20,Atlanta,Blue Ridge Services,Data Services,3,5370.75,16112.25,Casey Brown,Cancelled
+ATL-10120,2026-01-26,Atlanta,Summit Financial,Implementation,5,7300.54,36502.7,Taylor Smith,Completed
+ATL-10121,2026-05-22,Atlanta,Northstar Logistics,Implementation,2,3699.33,7398.66,Taylor Smith,Completed
+ATL-10122,2026-05-01,Atlanta,Blue Ridge Services,Data Services,4,4602.17,18408.68,Jordan Lee,Completed
+ATL-10123,2026-04-27,Atlanta,Northstar Logistics,Support,3,1905.98,5717.94,Taylor Smith,Completed
+ATL-10124,2026-05-20,Atlanta,,Automation,2,4550.83,9101.66,Taylor Smith,Completed
+ATL-10125,2026-07-22,Atlanta,Blue Ridge Services,Consulting,1,1238.55,1238.55,Casey Brown,Cancelled
+ATL-10126,2026-06-26,Atlanta,Blue Ridge Services,Support,4,748.71,2994.84,Alex Johnson,Completed
+ATL-10127,2026-01-21,Atlanta,Redwood Operations,Automation,5,4962.77,24813.85,Jordan Lee,Pending
+ATL-10128,2026-01-24,Atlanta,Summit Financial,Support,5,1000.74,5003.7,Casey Brown,Cancelled
+ATL-10129,2026-07-15,Atlanta,Pioneer Manufacturing,Implementation,3,5381.23,16143.69,Alex Johnson,Cancelled
+ATL-10130,2026-05-30,Atlanta,Vertex Technology,Data Services,3,2316.7,6950.1,Alex Johnson,Completed
+ATL-10131,2026-03-24,Atlanta,Northstar Logistics,Data Services,3,3337.57,10012.71,Taylor Smith,Completed
+ATL-10132,2026-04-13,Atlanta,Oakline Partners,Data Services,4,2796.98,11187.92,Jordan Lee,Pending
+ATL-10133,2026-01-30,Atlanta,Vertex Technology,Implementation,3,3761.99,11285.97,Casey Brown,Completed
+ATL-10134,2026-02-18,Atlanta,Oakline Partners,Automation,4,4479.49,17917.96,Morgan Davis,Cancelled
+ATL-10135,2026-02-22,Atlanta,Blue Ridge Services,Data Services,4,4919.96,19679.84,Casey Brown,Completed
+ATL-10136,2026-05-05,Atlanta,Northstar Logistics,Support,4,2261.69,9046.76,Jordan Lee,Cancelled
+ATL-10137,2026-01-04,Atlanta,Oakline Partners,Consulting,2,2243.0,4486.0,Alex Johnson,Completed
+ATL-10138,2026-01-31,Atlanta,,Consulting,1,2845.79,2845.79,Alex Johnson,Completed
+ATL-10139,2026-05-04,Atlanta,Crescent Health,Automation,3,4492.94,13478.82,Taylor Smith,Pending
+ATL-10140,2026-06-03,Atlanta,Oakline Partners,Automation,2,4301.52,8603.04,Taylor Smith,Completed
+ATL-10141,2026-07-21,Atlanta,Oakline Partners,Support,4,1179.75,4719.0,Morgan Davis,Completed
+ATL-10142,2026-05-29,Atlanta,Crescent Health,Support,3,2174.95,6524.85,Taylor Smith,Pending
+ATL-10143,2026-05-22,Atlanta,Oakline Partners,Automation,4,4070.74,16282.96,Alex Johnson,Pending
+ATL-10144,2026-03-03,Atlanta,Redwood Operations,Support,2,2461.55,4923.1,Alex Johnson,Completed
+ATL-10145,2026-05-02,Atlanta,Vertex Technology,Data Services,1,2931.79,2931.79,Alex Johnson,Completed
+ATL-10146,2026-06-01,Atlanta,Evergreen Retail,Data Services,1,2068.11,2068.11,Jordan Lee,Pending
+ATL-10147,2026-01-04,Atlanta,Pioneer Manufacturing,Implementation,5,7052.21,35261.05,Alex Johnson,Completed
+ATL-10148,2026-03-09,Atlanta,Evergreen Retail,Implementation,4,6407.63,25630.52,Casey Brown,Pending
+ATL-10149,2026-08-08,Atlanta,Oakline Partners,Implementation,3,6761.71,20285.13,Alex Johnson,Completed
+ATL-10014,2026-05-18,Atlanta,Blue Ridge Services,Consulting,2,3979.96,7959.92,Casey Brown,Pending
+ATL-10098,2026-04-20,Atlanta,Evergreen Retail,Automation,1,4083.22,4083.22,Jordan Lee,Cancelled
+ATL-10075,2026-06-26,Atlanta,Atlas Medical,Data Services,2,2164.07,4328.14,Jordan Lee,Pending
